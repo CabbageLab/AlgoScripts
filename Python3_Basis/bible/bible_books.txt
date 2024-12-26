@@ -1,0 +1,968 @@
+书名: Genesis, 章节数: 50
+  Genesis 1: https://www.biblegateway.com/passage/?search=Genesis%201&version=ESV
+  Genesis 2: https://www.biblegateway.com/passage/?search=Genesis%202&version=ESV
+  Genesis 3: https://www.biblegateway.com/passage/?search=Genesis%203&version=ESV
+  Genesis 4: https://www.biblegateway.com/passage/?search=Genesis%204&version=ESV
+  Genesis 5: https://www.biblegateway.com/passage/?search=Genesis%205&version=ESV
+  Genesis 6: https://www.biblegateway.com/passage/?search=Genesis%206&version=ESV
+  Genesis 7: https://www.biblegateway.com/passage/?search=Genesis%207&version=ESV
+  Genesis 8: https://www.biblegateway.com/passage/?search=Genesis%208&version=ESV
+  Genesis 9: https://www.biblegateway.com/passage/?search=Genesis%209&version=ESV
+  Genesis 10: https://www.biblegateway.com/passage/?search=Genesis%2010&version=ESV
+  Genesis 11: https://www.biblegateway.com/passage/?search=Genesis%2011&version=ESV
+  Genesis 12: https://www.biblegateway.com/passage/?search=Genesis%2012&version=ESV
+  Genesis 13: https://www.biblegateway.com/passage/?search=Genesis%2013&version=ESV
+  Genesis 14: https://www.biblegateway.com/passage/?search=Genesis%2014&version=ESV
+  Genesis 15: https://www.biblegateway.com/passage/?search=Genesis%2015&version=ESV
+  Genesis 16: https://www.biblegateway.com/passage/?search=Genesis%2016&version=ESV
+  Genesis 17: https://www.biblegateway.com/passage/?search=Genesis%2017&version=ESV
+  Genesis 18: https://www.biblegateway.com/passage/?search=Genesis%2018&version=ESV
+  Genesis 19: https://www.biblegateway.com/passage/?search=Genesis%2019&version=ESV
+  Genesis 20: https://www.biblegateway.com/passage/?search=Genesis%2020&version=ESV
+  Genesis 21: https://www.biblegateway.com/passage/?search=Genesis%2021&version=ESV
+  Genesis 22: https://www.biblegateway.com/passage/?search=Genesis%2022&version=ESV
+  Genesis 23: https://www.biblegateway.com/passage/?search=Genesis%2023&version=ESV
+  Genesis 24: https://www.biblegateway.com/passage/?search=Genesis%2024&version=ESV
+  Genesis 25: https://www.biblegateway.com/passage/?search=Genesis%2025&version=ESV
+  Genesis 26: https://www.biblegateway.com/passage/?search=Genesis%2026&version=ESV
+  Genesis 27: https://www.biblegateway.com/passage/?search=Genesis%2027&version=ESV
+  Genesis 28: https://www.biblegateway.com/passage/?search=Genesis%2028&version=ESV
+  Genesis 29: https://www.biblegateway.com/passage/?search=Genesis%2029&version=ESV
+  Genesis 30: https://www.biblegateway.com/passage/?search=Genesis%2030&version=ESV
+  Genesis 31: https://www.biblegateway.com/passage/?search=Genesis%2031&version=ESV
+  Genesis 32: https://www.biblegateway.com/passage/?search=Genesis%2032&version=ESV
+  Genesis 33: https://www.biblegateway.com/passage/?search=Genesis%2033&version=ESV
+  Genesis 34: https://www.biblegateway.com/passage/?search=Genesis%2034&version=ESV
+  Genesis 35: https://www.biblegateway.com/passage/?search=Genesis%2035&version=ESV
+  Genesis 36: https://www.biblegateway.com/passage/?search=Genesis%2036&version=ESV
+  Genesis 37: https://www.biblegateway.com/passage/?search=Genesis%2037&version=ESV
+  Genesis 38: https://www.biblegateway.com/passage/?search=Genesis%2038&version=ESV
+  Genesis 39: https://www.biblegateway.com/passage/?search=Genesis%2039&version=ESV
+  Genesis 40: https://www.biblegateway.com/passage/?search=Genesis%2040&version=ESV
+  Genesis 41: https://www.biblegateway.com/passage/?search=Genesis%2041&version=ESV
+  Genesis 42: https://www.biblegateway.com/passage/?search=Genesis%2042&version=ESV
+  Genesis 43: https://www.biblegateway.com/passage/?search=Genesis%2043&version=ESV
+  Genesis 44: https://www.biblegateway.com/passage/?search=Genesis%2044&version=ESV
+  Genesis 45: https://www.biblegateway.com/passage/?search=Genesis%2045&version=ESV
+  Genesis 46: https://www.biblegateway.com/passage/?search=Genesis%2046&version=ESV
+  Genesis 47: https://www.biblegateway.com/passage/?search=Genesis%2047&version=ESV
+  Genesis 48: https://www.biblegateway.com/passage/?search=Genesis%2048&version=ESV
+  Genesis 49: https://www.biblegateway.com/passage/?search=Genesis%2049&version=ESV
+  Genesis 50: https://www.biblegateway.com/passage/?search=Genesis%2050&version=ESV
+书名: Exodus, 章节数: 40
+  Exodus 1: https://www.biblegateway.com/passage/?search=Exodus%201&version=ESV
+  Exodus 2: https://www.biblegateway.com/passage/?search=Exodus%202&version=ESV
+  Exodus 3: https://www.biblegateway.com/passage/?search=Exodus%203&version=ESV
+  Exodus 4: https://www.biblegateway.com/passage/?search=Exodus%204&version=ESV
+  Exodus 5: https://www.biblegateway.com/passage/?search=Exodus%205&version=ESV
+  Exodus 6: https://www.biblegateway.com/passage/?search=Exodus%206&version=ESV
+  Exodus 7: https://www.biblegateway.com/passage/?search=Exodus%207&version=ESV
+  Exodus 8: https://www.biblegateway.com/passage/?search=Exodus%208&version=ESV
+  Exodus 9: https://www.biblegateway.com/passage/?search=Exodus%209&version=ESV
+  Exodus 10: https://www.biblegateway.com/passage/?search=Exodus%2010&version=ESV
+  Exodus 11: https://www.biblegateway.com/passage/?search=Exodus%2011&version=ESV
+  Exodus 12: https://www.biblegateway.com/passage/?search=Exodus%2012&version=ESV
+  Exodus 13: https://www.biblegateway.com/passage/?search=Exodus%2013&version=ESV
+  Exodus 14: https://www.biblegateway.com/passage/?search=Exodus%2014&version=ESV
+  Exodus 15: https://www.biblegateway.com/passage/?search=Exodus%2015&version=ESV
+  Exodus 16: https://www.biblegateway.com/passage/?search=Exodus%2016&version=ESV
+  Exodus 17: https://www.biblegateway.com/passage/?search=Exodus%2017&version=ESV
+  Exodus 18: https://www.biblegateway.com/passage/?search=Exodus%2018&version=ESV
+  Exodus 19: https://www.biblegateway.com/passage/?search=Exodus%2019&version=ESV
+  Exodus 20: https://www.biblegateway.com/passage/?search=Exodus%2020&version=ESV
+  Exodus 21: https://www.biblegateway.com/passage/?search=Exodus%2021&version=ESV
+  Exodus 22: https://www.biblegateway.com/passage/?search=Exodus%2022&version=ESV
+  Exodus 23: https://www.biblegateway.com/passage/?search=Exodus%2023&version=ESV
+  Exodus 24: https://www.biblegateway.com/passage/?search=Exodus%2024&version=ESV
+  Exodus 25: https://www.biblegateway.com/passage/?search=Exodus%2025&version=ESV
+  Exodus 26: https://www.biblegateway.com/passage/?search=Exodus%2026&version=ESV
+  Exodus 27: https://www.biblegateway.com/passage/?search=Exodus%2027&version=ESV
+  Exodus 28: https://www.biblegateway.com/passage/?search=Exodus%2028&version=ESV
+  Exodus 29: https://www.biblegateway.com/passage/?search=Exodus%2029&version=ESV
+  Exodus 30: https://www.biblegateway.com/passage/?search=Exodus%2030&version=ESV
+  Exodus 31: https://www.biblegateway.com/passage/?search=Exodus%2031&version=ESV
+  Exodus 32: https://www.biblegateway.com/passage/?search=Exodus%2032&version=ESV
+  Exodus 33: https://www.biblegateway.com/passage/?search=Exodus%2033&version=ESV
+  Exodus 34: https://www.biblegateway.com/passage/?search=Exodus%2034&version=ESV
+  Exodus 35: https://www.biblegateway.com/passage/?search=Exodus%2035&version=ESV
+  Exodus 36: https://www.biblegateway.com/passage/?search=Exodus%2036&version=ESV
+  Exodus 37: https://www.biblegateway.com/passage/?search=Exodus%2037&version=ESV
+  Exodus 38: https://www.biblegateway.com/passage/?search=Exodus%2038&version=ESV
+  Exodus 39: https://www.biblegateway.com/passage/?search=Exodus%2039&version=ESV
+  Exodus 40: https://www.biblegateway.com/passage/?search=Exodus%2040&version=ESV
+书名: Leviticus, 章节数: 27
+  Leviticus 1: https://www.biblegateway.com/passage/?search=Leviticus%201&version=ESV
+  Leviticus 2: https://www.biblegateway.com/passage/?search=Leviticus%202&version=ESV
+  Leviticus 3: https://www.biblegateway.com/passage/?search=Leviticus%203&version=ESV
+  Leviticus 4: https://www.biblegateway.com/passage/?search=Leviticus%204&version=ESV
+  Leviticus 5: https://www.biblegateway.com/passage/?search=Leviticus%205&version=ESV
+  Leviticus 6: https://www.biblegateway.com/passage/?search=Leviticus%206&version=ESV
+  Leviticus 7: https://www.biblegateway.com/passage/?search=Leviticus%207&version=ESV
+  Leviticus 8: https://www.biblegateway.com/passage/?search=Leviticus%208&version=ESV
+  Leviticus 9: https://www.biblegateway.com/passage/?search=Leviticus%209&version=ESV
+  Leviticus 10: https://www.biblegateway.com/passage/?search=Leviticus%2010&version=ESV
+  Leviticus 11: https://www.biblegateway.com/passage/?search=Leviticus%2011&version=ESV
+  Leviticus 12: https://www.biblegateway.com/passage/?search=Leviticus%2012&version=ESV
+  Leviticus 13: https://www.biblegateway.com/passage/?search=Leviticus%2013&version=ESV
+  Leviticus 14: https://www.biblegateway.com/passage/?search=Leviticus%2014&version=ESV
+  Leviticus 15: https://www.biblegateway.com/passage/?search=Leviticus%2015&version=ESV
+  Leviticus 16: https://www.biblegateway.com/passage/?search=Leviticus%2016&version=ESV
+  Leviticus 17: https://www.biblegateway.com/passage/?search=Leviticus%2017&version=ESV
+  Leviticus 18: https://www.biblegateway.com/passage/?search=Leviticus%2018&version=ESV
+  Leviticus 19: https://www.biblegateway.com/passage/?search=Leviticus%2019&version=ESV
+  Leviticus 20: https://www.biblegateway.com/passage/?search=Leviticus%2020&version=ESV
+  Leviticus 21: https://www.biblegateway.com/passage/?search=Leviticus%2021&version=ESV
+  Leviticus 22: https://www.biblegateway.com/passage/?search=Leviticus%2022&version=ESV
+  Leviticus 23: https://www.biblegateway.com/passage/?search=Leviticus%2023&version=ESV
+  Leviticus 24: https://www.biblegateway.com/passage/?search=Leviticus%2024&version=ESV
+  Leviticus 25: https://www.biblegateway.com/passage/?search=Leviticus%2025&version=ESV
+  Leviticus 26: https://www.biblegateway.com/passage/?search=Leviticus%2026&version=ESV
+  Leviticus 27: https://www.biblegateway.com/passage/?search=Leviticus%2027&version=ESV
+书名: Numbers, 章节数: 36
+  Numbers 1: https://www.biblegateway.com/passage/?search=Numbers%201&version=ESV
+  Numbers 2: https://www.biblegateway.com/passage/?search=Numbers%202&version=ESV
+  Numbers 3: https://www.biblegateway.com/passage/?search=Numbers%203&version=ESV
+  Numbers 4: https://www.biblegateway.com/passage/?search=Numbers%204&version=ESV
+  Numbers 5: https://www.biblegateway.com/passage/?search=Numbers%205&version=ESV
+  Numbers 6: https://www.biblegateway.com/passage/?search=Numbers%206&version=ESV
+  Numbers 7: https://www.biblegateway.com/passage/?search=Numbers%207&version=ESV
+  Numbers 8: https://www.biblegateway.com/passage/?search=Numbers%208&version=ESV
+  Numbers 9: https://www.biblegateway.com/passage/?search=Numbers%209&version=ESV
+  Numbers 10: https://www.biblegateway.com/passage/?search=Numbers%2010&version=ESV
+  Numbers 11: https://www.biblegateway.com/passage/?search=Numbers%2011&version=ESV
+  Numbers 12: https://www.biblegateway.com/passage/?search=Numbers%2012&version=ESV
+  Numbers 13: https://www.biblegateway.com/passage/?search=Numbers%2013&version=ESV
+  Numbers 14: https://www.biblegateway.com/passage/?search=Numbers%2014&version=ESV
+  Numbers 15: https://www.biblegateway.com/passage/?search=Numbers%2015&version=ESV
+  Numbers 16: https://www.biblegateway.com/passage/?search=Numbers%2016&version=ESV
+  Numbers 17: https://www.biblegateway.com/passage/?search=Numbers%2017&version=ESV
+  Numbers 18: https://www.biblegateway.com/passage/?search=Numbers%2018&version=ESV
+  Numbers 19: https://www.biblegateway.com/passage/?search=Numbers%2019&version=ESV
+  Numbers 20: https://www.biblegateway.com/passage/?search=Numbers%2020&version=ESV
+  Numbers 21: https://www.biblegateway.com/passage/?search=Numbers%2021&version=ESV
+  Numbers 22: https://www.biblegateway.com/passage/?search=Numbers%2022&version=ESV
+  Numbers 23: https://www.biblegateway.com/passage/?search=Numbers%2023&version=ESV
+  Numbers 24: https://www.biblegateway.com/passage/?search=Numbers%2024&version=ESV
+  Numbers 25: https://www.biblegateway.com/passage/?search=Numbers%2025&version=ESV
+  Numbers 26: https://www.biblegateway.com/passage/?search=Numbers%2026&version=ESV
+  Numbers 27: https://www.biblegateway.com/passage/?search=Numbers%2027&version=ESV
+  Numbers 28: https://www.biblegateway.com/passage/?search=Numbers%2028&version=ESV
+  Numbers 29: https://www.biblegateway.com/passage/?search=Numbers%2029&version=ESV
+  Numbers 30: https://www.biblegateway.com/passage/?search=Numbers%2030&version=ESV
+  Numbers 31: https://www.biblegateway.com/passage/?search=Numbers%2031&version=ESV
+  Numbers 32: https://www.biblegateway.com/passage/?search=Numbers%2032&version=ESV
+  Numbers 33: https://www.biblegateway.com/passage/?search=Numbers%2033&version=ESV
+  Numbers 34: https://www.biblegateway.com/passage/?search=Numbers%2034&version=ESV
+  Numbers 35: https://www.biblegateway.com/passage/?search=Numbers%2035&version=ESV
+  Numbers 36: https://www.biblegateway.com/passage/?search=Numbers%2036&version=ESV
+书名: Deuteronomy, 章节数: 34
+  Deuteronomy 1: https://www.biblegateway.com/passage/?search=Deuteronomy%201&version=ESV
+  Deuteronomy 2: https://www.biblegateway.com/passage/?search=Deuteronomy%202&version=ESV
+  Deuteronomy 3: https://www.biblegateway.com/passage/?search=Deuteronomy%203&version=ESV
+  Deuteronomy 4: https://www.biblegateway.com/passage/?search=Deuteronomy%204&version=ESV
+  Deuteronomy 5: https://www.biblegateway.com/passage/?search=Deuteronomy%205&version=ESV
+  Deuteronomy 6: https://www.biblegateway.com/passage/?search=Deuteronomy%206&version=ESV
+  Deuteronomy 7: https://www.biblegateway.com/passage/?search=Deuteronomy%207&version=ESV
+  Deuteronomy 8: https://www.biblegateway.com/passage/?search=Deuteronomy%208&version=ESV
+  Deuteronomy 9: https://www.biblegateway.com/passage/?search=Deuteronomy%209&version=ESV
+  Deuteronomy 10: https://www.biblegateway.com/passage/?search=Deuteronomy%2010&version=ESV
+  Deuteronomy 11: https://www.biblegateway.com/passage/?search=Deuteronomy%2011&version=ESV
+  Deuteronomy 12: https://www.biblegateway.com/passage/?search=Deuteronomy%2012&version=ESV
+  Deuteronomy 13: https://www.biblegateway.com/passage/?search=Deuteronomy%2013&version=ESV
+  Deuteronomy 14: https://www.biblegateway.com/passage/?search=Deuteronomy%2014&version=ESV
+  Deuteronomy 15: https://www.biblegateway.com/passage/?search=Deuteronomy%2015&version=ESV
+  Deuteronomy 16: https://www.biblegateway.com/passage/?search=Deuteronomy%2016&version=ESV
+  Deuteronomy 17: https://www.biblegateway.com/passage/?search=Deuteronomy%2017&version=ESV
+  Deuteronomy 18: https://www.biblegateway.com/passage/?search=Deuteronomy%2018&version=ESV
+  Deuteronomy 19: https://www.biblegateway.com/passage/?search=Deuteronomy%2019&version=ESV
+  Deuteronomy 20: https://www.biblegateway.com/passage/?search=Deuteronomy%2020&version=ESV
+  Deuteronomy 21: https://www.biblegateway.com/passage/?search=Deuteronomy%2021&version=ESV
+  Deuteronomy 22: https://www.biblegateway.com/passage/?search=Deuteronomy%2022&version=ESV
+  Deuteronomy 23: https://www.biblegateway.com/passage/?search=Deuteronomy%2023&version=ESV
+  Deuteronomy 24: https://www.biblegateway.com/passage/?search=Deuteronomy%2024&version=ESV
+  Deuteronomy 25: https://www.biblegateway.com/passage/?search=Deuteronomy%2025&version=ESV
+  Deuteronomy 26: https://www.biblegateway.com/passage/?search=Deuteronomy%2026&version=ESV
+  Deuteronomy 27: https://www.biblegateway.com/passage/?search=Deuteronomy%2027&version=ESV
+  Deuteronomy 28: https://www.biblegateway.com/passage/?search=Deuteronomy%2028&version=ESV
+  Deuteronomy 29: https://www.biblegateway.com/passage/?search=Deuteronomy%2029&version=ESV
+  Deuteronomy 30: https://www.biblegateway.com/passage/?search=Deuteronomy%2030&version=ESV
+  Deuteronomy 31: https://www.biblegateway.com/passage/?search=Deuteronomy%2031&version=ESV
+  Deuteronomy 32: https://www.biblegateway.com/passage/?search=Deuteronomy%2032&version=ESV
+  Deuteronomy 33: https://www.biblegateway.com/passage/?search=Deuteronomy%2033&version=ESV
+  Deuteronomy 34: https://www.biblegateway.com/passage/?search=Deuteronomy%2034&version=ESV
+书名: Joshua, 章节数: 24
+  Joshua 1: https://www.biblegateway.com/passage/?search=Joshua%201&version=ESV
+  Joshua 2: https://www.biblegateway.com/passage/?search=Joshua%202&version=ESV
+  Joshua 3: https://www.biblegateway.com/passage/?search=Joshua%203&version=ESV
+  Joshua 4: https://www.biblegateway.com/passage/?search=Joshua%204&version=ESV
+  Joshua 5: https://www.biblegateway.com/passage/?search=Joshua%205&version=ESV
+  Joshua 6: https://www.biblegateway.com/passage/?search=Joshua%206&version=ESV
+  Joshua 7: https://www.biblegateway.com/passage/?search=Joshua%207&version=ESV
+  Joshua 8: https://www.biblegateway.com/passage/?search=Joshua%208&version=ESV
+  Joshua 9: https://www.biblegateway.com/passage/?search=Joshua%209&version=ESV
+  Joshua 10: https://www.biblegateway.com/passage/?search=Joshua%2010&version=ESV
+  Joshua 11: https://www.biblegateway.com/passage/?search=Joshua%2011&version=ESV
+  Joshua 12: https://www.biblegateway.com/passage/?search=Joshua%2012&version=ESV
+  Joshua 13: https://www.biblegateway.com/passage/?search=Joshua%2013&version=ESV
+  Joshua 14: https://www.biblegateway.com/passage/?search=Joshua%2014&version=ESV
+  Joshua 15: https://www.biblegateway.com/passage/?search=Joshua%2015&version=ESV
+  Joshua 16: https://www.biblegateway.com/passage/?search=Joshua%2016&version=ESV
+  Joshua 17: https://www.biblegateway.com/passage/?search=Joshua%2017&version=ESV
+  Joshua 18: https://www.biblegateway.com/passage/?search=Joshua%2018&version=ESV
+  Joshua 19: https://www.biblegateway.com/passage/?search=Joshua%2019&version=ESV
+  Joshua 20: https://www.biblegateway.com/passage/?search=Joshua%2020&version=ESV
+  Joshua 21: https://www.biblegateway.com/passage/?search=Joshua%2021&version=ESV
+  Joshua 22: https://www.biblegateway.com/passage/?search=Joshua%2022&version=ESV
+  Joshua 23: https://www.biblegateway.com/passage/?search=Joshua%2023&version=ESV
+  Joshua 24: https://www.biblegateway.com/passage/?search=Joshua%2024&version=ESV
+书名: Judges, 章节数: 21
+  Judges 1: https://www.biblegateway.com/passage/?search=Judges%201&version=ESV
+  Judges 2: https://www.biblegateway.com/passage/?search=Judges%202&version=ESV
+  Judges 3: https://www.biblegateway.com/passage/?search=Judges%203&version=ESV
+  Judges 4: https://www.biblegateway.com/passage/?search=Judges%204&version=ESV
+  Judges 5: https://www.biblegateway.com/passage/?search=Judges%205&version=ESV
+  Judges 6: https://www.biblegateway.com/passage/?search=Judges%206&version=ESV
+  Judges 7: https://www.biblegateway.com/passage/?search=Judges%207&version=ESV
+  Judges 8: https://www.biblegateway.com/passage/?search=Judges%208&version=ESV
+  Judges 9: https://www.biblegateway.com/passage/?search=Judges%209&version=ESV
+  Judges 10: https://www.biblegateway.com/passage/?search=Judges%2010&version=ESV
+  Judges 11: https://www.biblegateway.com/passage/?search=Judges%2011&version=ESV
+  Judges 12: https://www.biblegateway.com/passage/?search=Judges%2012&version=ESV
+  Judges 13: https://www.biblegateway.com/passage/?search=Judges%2013&version=ESV
+  Judges 14: https://www.biblegateway.com/passage/?search=Judges%2014&version=ESV
+  Judges 15: https://www.biblegateway.com/passage/?search=Judges%2015&version=ESV
+  Judges 16: https://www.biblegateway.com/passage/?search=Judges%2016&version=ESV
+  Judges 17: https://www.biblegateway.com/passage/?search=Judges%2017&version=ESV
+  Judges 18: https://www.biblegateway.com/passage/?search=Judges%2018&version=ESV
+  Judges 19: https://www.biblegateway.com/passage/?search=Judges%2019&version=ESV
+  Judges 20: https://www.biblegateway.com/passage/?search=Judges%2020&version=ESV
+  Judges 21: https://www.biblegateway.com/passage/?search=Judges%2021&version=ESV
+书名: Ruth, 章节数: 4
+  Ruth 1: https://www.biblegateway.com/passage/?search=Ruth%201&version=ESV
+  Ruth 2: https://www.biblegateway.com/passage/?search=Ruth%202&version=ESV
+  Ruth 3: https://www.biblegateway.com/passage/?search=Ruth%203&version=ESV
+  Ruth 4: https://www.biblegateway.com/passage/?search=Ruth%204&version=ESV
+书名: 1 Samuel, 章节数: 31
+  1 Samuel 1: https://www.biblegateway.com/passage/?search=1%20Samuel%201&version=ESV
+  1 Samuel 2: https://www.biblegateway.com/passage/?search=1%20Samuel%202&version=ESV
+  1 Samuel 3: https://www.biblegateway.com/passage/?search=1%20Samuel%203&version=ESV
+  1 Samuel 4: https://www.biblegateway.com/passage/?search=1%20Samuel%204&version=ESV
+  1 Samuel 5: https://www.biblegateway.com/passage/?search=1%20Samuel%205&version=ESV
+  1 Samuel 6: https://www.biblegateway.com/passage/?search=1%20Samuel%206&version=ESV
+  1 Samuel 7: https://www.biblegateway.com/passage/?search=1%20Samuel%207&version=ESV
+  1 Samuel 8: https://www.biblegateway.com/passage/?search=1%20Samuel%208&version=ESV
+  1 Samuel 9: https://www.biblegateway.com/passage/?search=1%20Samuel%209&version=ESV
+  1 Samuel 10: https://www.biblegateway.com/passage/?search=1%20Samuel%2010&version=ESV
+  1 Samuel 11: https://www.biblegateway.com/passage/?search=1%20Samuel%2011&version=ESV
+  1 Samuel 12: https://www.biblegateway.com/passage/?search=1%20Samuel%2012&version=ESV
+  1 Samuel 13: https://www.biblegateway.com/passage/?search=1%20Samuel%2013&version=ESV
+  1 Samuel 14: https://www.biblegateway.com/passage/?search=1%20Samuel%2014&version=ESV
+  1 Samuel 15: https://www.biblegateway.com/passage/?search=1%20Samuel%2015&version=ESV
+  1 Samuel 16: https://www.biblegateway.com/passage/?search=1%20Samuel%2016&version=ESV
+  1 Samuel 17: https://www.biblegateway.com/passage/?search=1%20Samuel%2017&version=ESV
+  1 Samuel 18: https://www.biblegateway.com/passage/?search=1%20Samuel%2018&version=ESV
+  1 Samuel 19: https://www.biblegateway.com/passage/?search=1%20Samuel%2019&version=ESV
+  1 Samuel 20: https://www.biblegateway.com/passage/?search=1%20Samuel%2020&version=ESV
+  1 Samuel 21: https://www.biblegateway.com/passage/?search=1%20Samuel%2021&version=ESV
+  1 Samuel 22: https://www.biblegateway.com/passage/?search=1%20Samuel%2022&version=ESV
+  1 Samuel 23: https://www.biblegateway.com/passage/?search=1%20Samuel%2023&version=ESV
+  1 Samuel 24: https://www.biblegateway.com/passage/?search=1%20Samuel%2024&version=ESV
+  1 Samuel 25: https://www.biblegateway.com/passage/?search=1%20Samuel%2025&version=ESV
+  1 Samuel 26: https://www.biblegateway.com/passage/?search=1%20Samuel%2026&version=ESV
+  1 Samuel 27: https://www.biblegateway.com/passage/?search=1%20Samuel%2027&version=ESV
+  1 Samuel 28: https://www.biblegateway.com/passage/?search=1%20Samuel%2028&version=ESV
+  1 Samuel 29: https://www.biblegateway.com/passage/?search=1%20Samuel%2029&version=ESV
+  1 Samuel 30: https://www.biblegateway.com/passage/?search=1%20Samuel%2030&version=ESV
+  1 Samuel 31: https://www.biblegateway.com/passage/?search=1%20Samuel%2031&version=ESV
+书名: 2 Samuel, 章节数: 24
+  2 Samuel 1: https://www.biblegateway.com/passage/?search=2%20Samuel%201&version=ESV
+  2 Samuel 2: https://www.biblegateway.com/passage/?search=2%20Samuel%202&version=ESV
+  2 Samuel 3: https://www.biblegateway.com/passage/?search=2%20Samuel%203&version=ESV
+  2 Samuel 4: https://www.biblegateway.com/passage/?search=2%20Samuel%204&version=ESV
+  2 Samuel 5: https://www.biblegateway.com/passage/?search=2%20Samuel%205&version=ESV
+  2 Samuel 6: https://www.biblegateway.com/passage/?search=2%20Samuel%206&version=ESV
+  2 Samuel 7: https://www.biblegateway.com/passage/?search=2%20Samuel%207&version=ESV
+  2 Samuel 8: https://www.biblegateway.com/passage/?search=2%20Samuel%208&version=ESV
+  2 Samuel 9: https://www.biblegateway.com/passage/?search=2%20Samuel%209&version=ESV
+  2 Samuel 10: https://www.biblegateway.com/passage/?search=2%20Samuel%2010&version=ESV
+  2 Samuel 11: https://www.biblegateway.com/passage/?search=2%20Samuel%2011&version=ESV
+  2 Samuel 12: https://www.biblegateway.com/passage/?search=2%20Samuel%2012&version=ESV
+  2 Samuel 13: https://www.biblegateway.com/passage/?search=2%20Samuel%2013&version=ESV
+  2 Samuel 14: https://www.biblegateway.com/passage/?search=2%20Samuel%2014&version=ESV
+  2 Samuel 15: https://www.biblegateway.com/passage/?search=2%20Samuel%2015&version=ESV
+  2 Samuel 16: https://www.biblegateway.com/passage/?search=2%20Samuel%2016&version=ESV
+  2 Samuel 17: https://www.biblegateway.com/passage/?search=2%20Samuel%2017&version=ESV
+  2 Samuel 18: https://www.biblegateway.com/passage/?search=2%20Samuel%2018&version=ESV
+  2 Samuel 19: https://www.biblegateway.com/passage/?search=2%20Samuel%2019&version=ESV
+  2 Samuel 20: https://www.biblegateway.com/passage/?search=2%20Samuel%2020&version=ESV
+  2 Samuel 21: https://www.biblegateway.com/passage/?search=2%20Samuel%2021&version=ESV
+  2 Samuel 22: https://www.biblegateway.com/passage/?search=2%20Samuel%2022&version=ESV
+  2 Samuel 23: https://www.biblegateway.com/passage/?search=2%20Samuel%2023&version=ESV
+  2 Samuel 24: https://www.biblegateway.com/passage/?search=2%20Samuel%2024&version=ESV
+书名: 1 Kings, 章节数: 22
+  1 Kings 1: https://www.biblegateway.com/passage/?search=1%20Kings%201&version=ESV
+  1 Kings 2: https://www.biblegateway.com/passage/?search=1%20Kings%202&version=ESV
+  1 Kings 3: https://www.biblegateway.com/passage/?search=1%20Kings%203&version=ESV
+  1 Kings 4: https://www.biblegateway.com/passage/?search=1%20Kings%204&version=ESV
+  1 Kings 5: https://www.biblegateway.com/passage/?search=1%20Kings%205&version=ESV
+  1 Kings 6: https://www.biblegateway.com/passage/?search=1%20Kings%206&version=ESV
+  1 Kings 7: https://www.biblegateway.com/passage/?search=1%20Kings%207&version=ESV
+  1 Kings 8: https://www.biblegateway.com/passage/?search=1%20Kings%208&version=ESV
+  1 Kings 9: https://www.biblegateway.com/passage/?search=1%20Kings%209&version=ESV
+  1 Kings 10: https://www.biblegateway.com/passage/?search=1%20Kings%2010&version=ESV
+  1 Kings 11: https://www.biblegateway.com/passage/?search=1%20Kings%2011&version=ESV
+  1 Kings 12: https://www.biblegateway.com/passage/?search=1%20Kings%2012&version=ESV
+  1 Kings 13: https://www.biblegateway.com/passage/?search=1%20Kings%2013&version=ESV
+  1 Kings 14: https://www.biblegateway.com/passage/?search=1%20Kings%2014&version=ESV
+  1 Kings 15: https://www.biblegateway.com/passage/?search=1%20Kings%2015&version=ESV
+  1 Kings 16: https://www.biblegateway.com/passage/?search=1%20Kings%2016&version=ESV
+  1 Kings 17: https://www.biblegateway.com/passage/?search=1%20Kings%2017&version=ESV
+  1 Kings 18: https://www.biblegateway.com/passage/?search=1%20Kings%2018&version=ESV
+  1 Kings 19: https://www.biblegateway.com/passage/?search=1%20Kings%2019&version=ESV
+  1 Kings 20: https://www.biblegateway.com/passage/?search=1%20Kings%2020&version=ESV
+  1 Kings 21: https://www.biblegateway.com/passage/?search=1%20Kings%2021&version=ESV
+  1 Kings 22: https://www.biblegateway.com/passage/?search=1%20Kings%2022&version=ESV
+书名: 2 Kings, 章节数: 25
+  2 Kings 1: https://www.biblegateway.com/passage/?search=2%20Kings%201&version=ESV
+  2 Kings 2: https://www.biblegateway.com/passage/?search=2%20Kings%202&version=ESV
+  2 Kings 3: https://www.biblegateway.com/passage/?search=2%20Kings%203&version=ESV
+  2 Kings 4: https://www.biblegateway.com/passage/?search=2%20Kings%204&version=ESV
+  2 Kings 5: https://www.biblegateway.com/passage/?search=2%20Kings%205&version=ESV
+  2 Kings 6: https://www.biblegateway.com/passage/?search=2%20Kings%206&version=ESV
+  2 Kings 7: https://www.biblegateway.com/passage/?search=2%20Kings%207&version=ESV
+  2 Kings 8: https://www.biblegateway.com/passage/?search=2%20Kings%208&version=ESV
+  2 Kings 9: https://www.biblegateway.com/passage/?search=2%20Kings%209&version=ESV
+  2 Kings 10: https://www.biblegateway.com/passage/?search=2%20Kings%2010&version=ESV
+  2 Kings 11: https://www.biblegateway.com/passage/?search=2%20Kings%2011&version=ESV
+  2 Kings 12: https://www.biblegateway.com/passage/?search=2%20Kings%2012&version=ESV
+  2 Kings 13: https://www.biblegateway.com/passage/?search=2%20Kings%2013&version=ESV
+  2 Kings 14: https://www.biblegateway.com/passage/?search=2%20Kings%2014&version=ESV
+  2 Kings 15: https://www.biblegateway.com/passage/?search=2%20Kings%2015&version=ESV
+  2 Kings 16: https://www.biblegateway.com/passage/?search=2%20Kings%2016&version=ESV
+  2 Kings 17: https://www.biblegateway.com/passage/?search=2%20Kings%2017&version=ESV
+  2 Kings 18: https://www.biblegateway.com/passage/?search=2%20Kings%2018&version=ESV
+  2 Kings 19: https://www.biblegateway.com/passage/?search=2%20Kings%2019&version=ESV
+  2 Kings 20: https://www.biblegateway.com/passage/?search=2%20Kings%2020&version=ESV
+  2 Kings 21: https://www.biblegateway.com/passage/?search=2%20Kings%2021&version=ESV
+  2 Kings 22: https://www.biblegateway.com/passage/?search=2%20Kings%2022&version=ESV
+  2 Kings 23: https://www.biblegateway.com/passage/?search=2%20Kings%2023&version=ESV
+  2 Kings 24: https://www.biblegateway.com/passage/?search=2%20Kings%2024&version=ESV
+  2 Kings 25: https://www.biblegateway.com/passage/?search=2%20Kings%2025&version=ESV
+书名: 1 Chronicles, 章节数: 29
+  1 Chronicles 1: https://www.biblegateway.com/passage/?search=1%20Chronicles%201&version=ESV
+  1 Chronicles 2: https://www.biblegateway.com/passage/?search=1%20Chronicles%202&version=ESV
+  1 Chronicles 3: https://www.biblegateway.com/passage/?search=1%20Chronicles%203&version=ESV
+  1 Chronicles 4: https://www.biblegateway.com/passage/?search=1%20Chronicles%204&version=ESV
+  1 Chronicles 5: https://www.biblegateway.com/passage/?search=1%20Chronicles%205&version=ESV
+  1 Chronicles 6: https://www.biblegateway.com/passage/?search=1%20Chronicles%206&version=ESV
+  1 Chronicles 7: https://www.biblegateway.com/passage/?search=1%20Chronicles%207&version=ESV
+  1 Chronicles 8: https://www.biblegateway.com/passage/?search=1%20Chronicles%208&version=ESV
+  1 Chronicles 9: https://www.biblegateway.com/passage/?search=1%20Chronicles%209&version=ESV
+  1 Chronicles 10: https://www.biblegateway.com/passage/?search=1%20Chronicles%2010&version=ESV
+  1 Chronicles 11: https://www.biblegateway.com/passage/?search=1%20Chronicles%2011&version=ESV
+  1 Chronicles 12: https://www.biblegateway.com/passage/?search=1%20Chronicles%2012&version=ESV
+  1 Chronicles 13: https://www.biblegateway.com/passage/?search=1%20Chronicles%2013&version=ESV
+  1 Chronicles 14: https://www.biblegateway.com/passage/?search=1%20Chronicles%2014&version=ESV
+  1 Chronicles 15: https://www.biblegateway.com/passage/?search=1%20Chronicles%2015&version=ESV
+  1 Chronicles 16: https://www.biblegateway.com/passage/?search=1%20Chronicles%2016&version=ESV
+  1 Chronicles 17: https://www.biblegateway.com/passage/?search=1%20Chronicles%2017&version=ESV
+  1 Chronicles 18: https://www.biblegateway.com/passage/?search=1%20Chronicles%2018&version=ESV
+  1 Chronicles 19: https://www.biblegateway.com/passage/?search=1%20Chronicles%2019&version=ESV
+  1 Chronicles 20: https://www.biblegateway.com/passage/?search=1%20Chronicles%2020&version=ESV
+  1 Chronicles 21: https://www.biblegateway.com/passage/?search=1%20Chronicles%2021&version=ESV
+  1 Chronicles 22: https://www.biblegateway.com/passage/?search=1%20Chronicles%2022&version=ESV
+  1 Chronicles 23: https://www.biblegateway.com/passage/?search=1%20Chronicles%2023&version=ESV
+  1 Chronicles 24: https://www.biblegateway.com/passage/?search=1%20Chronicles%2024&version=ESV
+  1 Chronicles 25: https://www.biblegateway.com/passage/?search=1%20Chronicles%2025&version=ESV
+  1 Chronicles 26: https://www.biblegateway.com/passage/?search=1%20Chronicles%2026&version=ESV
+  1 Chronicles 27: https://www.biblegateway.com/passage/?search=1%20Chronicles%2027&version=ESV
+  1 Chronicles 28: https://www.biblegateway.com/passage/?search=1%20Chronicles%2028&version=ESV
+  1 Chronicles 29: https://www.biblegateway.com/passage/?search=1%20Chronicles%2029&version=ESV
+书名: 2 Chronicles, 章节数: 36
+  2 Chronicles 1: https://www.biblegateway.com/passage/?search=2%20Chronicles%201&version=ESV
+  2 Chronicles 2: https://www.biblegateway.com/passage/?search=2%20Chronicles%202&version=ESV
+  2 Chronicles 3: https://www.biblegateway.com/passage/?search=2%20Chronicles%203&version=ESV
+  2 Chronicles 4: https://www.biblegateway.com/passage/?search=2%20Chronicles%204&version=ESV
+  2 Chronicles 5: https://www.biblegateway.com/passage/?search=2%20Chronicles%205&version=ESV
+  2 Chronicles 6: https://www.biblegateway.com/passage/?search=2%20Chronicles%206&version=ESV
+  2 Chronicles 7: https://www.biblegateway.com/passage/?search=2%20Chronicles%207&version=ESV
+  2 Chronicles 8: https://www.biblegateway.com/passage/?search=2%20Chronicles%208&version=ESV
+  2 Chronicles 9: https://www.biblegateway.com/passage/?search=2%20Chronicles%209&version=ESV
+  2 Chronicles 10: https://www.biblegateway.com/passage/?search=2%20Chronicles%2010&version=ESV
+  2 Chronicles 11: https://www.biblegateway.com/passage/?search=2%20Chronicles%2011&version=ESV
+  2 Chronicles 12: https://www.biblegateway.com/passage/?search=2%20Chronicles%2012&version=ESV
+  2 Chronicles 13: https://www.biblegateway.com/passage/?search=2%20Chronicles%2013&version=ESV
+  2 Chronicles 14: https://www.biblegateway.com/passage/?search=2%20Chronicles%2014&version=ESV
+  2 Chronicles 15: https://www.biblegateway.com/passage/?search=2%20Chronicles%2015&version=ESV
+  2 Chronicles 16: https://www.biblegateway.com/passage/?search=2%20Chronicles%2016&version=ESV
+  2 Chronicles 17: https://www.biblegateway.com/passage/?search=2%20Chronicles%2017&version=ESV
+  2 Chronicles 18: https://www.biblegateway.com/passage/?search=2%20Chronicles%2018&version=ESV
+  2 Chronicles 19: https://www.biblegateway.com/passage/?search=2%20Chronicles%2019&version=ESV
+  2 Chronicles 20: https://www.biblegateway.com/passage/?search=2%20Chronicles%2020&version=ESV
+  2 Chronicles 21: https://www.biblegateway.com/passage/?search=2%20Chronicles%2021&version=ESV
+  2 Chronicles 22: https://www.biblegateway.com/passage/?search=2%20Chronicles%2022&version=ESV
+  2 Chronicles 23: https://www.biblegateway.com/passage/?search=2%20Chronicles%2023&version=ESV
+  2 Chronicles 24: https://www.biblegateway.com/passage/?search=2%20Chronicles%2024&version=ESV
+  2 Chronicles 25: https://www.biblegateway.com/passage/?search=2%20Chronicles%2025&version=ESV
+  2 Chronicles 26: https://www.biblegateway.com/passage/?search=2%20Chronicles%2026&version=ESV
+  2 Chronicles 27: https://www.biblegateway.com/passage/?search=2%20Chronicles%2027&version=ESV
+  2 Chronicles 28: https://www.biblegateway.com/passage/?search=2%20Chronicles%2028&version=ESV
+  2 Chronicles 29: https://www.biblegateway.com/passage/?search=2%20Chronicles%2029&version=ESV
+  2 Chronicles 30: https://www.biblegateway.com/passage/?search=2%20Chronicles%2030&version=ESV
+  2 Chronicles 31: https://www.biblegateway.com/passage/?search=2%20Chronicles%2031&version=ESV
+  2 Chronicles 32: https://www.biblegateway.com/passage/?search=2%20Chronicles%2032&version=ESV
+  2 Chronicles 33: https://www.biblegateway.com/passage/?search=2%20Chronicles%2033&version=ESV
+  2 Chronicles 34: https://www.biblegateway.com/passage/?search=2%20Chronicles%2034&version=ESV
+  2 Chronicles 35: https://www.biblegateway.com/passage/?search=2%20Chronicles%2035&version=ESV
+  2 Chronicles 36: https://www.biblegateway.com/passage/?search=2%20Chronicles%2036&version=ESV
+书名: Ezra, 章节数: 10
+  Ezra 1: https://www.biblegateway.com/passage/?search=Ezra%201&version=ESV
+  Ezra 2: https://www.biblegateway.com/passage/?search=Ezra%202&version=ESV
+  Ezra 3: https://www.biblegateway.com/passage/?search=Ezra%203&version=ESV
+  Ezra 4: https://www.biblegateway.com/passage/?search=Ezra%204&version=ESV
+  Ezra 5: https://www.biblegateway.com/passage/?search=Ezra%205&version=ESV
+  Ezra 6: https://www.biblegateway.com/passage/?search=Ezra%206&version=ESV
+  Ezra 7: https://www.biblegateway.com/passage/?search=Ezra%207&version=ESV
+  Ezra 8: https://www.biblegateway.com/passage/?search=Ezra%208&version=ESV
+  Ezra 9: https://www.biblegateway.com/passage/?search=Ezra%209&version=ESV
+  Ezra 10: https://www.biblegateway.com/passage/?search=Ezra%2010&version=ESV
+书名: Nehemiah, 章节数: 13
+  Nehemiah 1: https://www.biblegateway.com/passage/?search=Nehemiah%201&version=ESV
+  Nehemiah 2: https://www.biblegateway.com/passage/?search=Nehemiah%202&version=ESV
+  Nehemiah 3: https://www.biblegateway.com/passage/?search=Nehemiah%203&version=ESV
+  Nehemiah 4: https://www.biblegateway.com/passage/?search=Nehemiah%204&version=ESV
+  Nehemiah 5: https://www.biblegateway.com/passage/?search=Nehemiah%205&version=ESV
+  Nehemiah 6: https://www.biblegateway.com/passage/?search=Nehemiah%206&version=ESV
+  Nehemiah 7: https://www.biblegateway.com/passage/?search=Nehemiah%207&version=ESV
+  Nehemiah 8: https://www.biblegateway.com/passage/?search=Nehemiah%208&version=ESV
+  Nehemiah 9: https://www.biblegateway.com/passage/?search=Nehemiah%209&version=ESV
+  Nehemiah 10: https://www.biblegateway.com/passage/?search=Nehemiah%2010&version=ESV
+  Nehemiah 11: https://www.biblegateway.com/passage/?search=Nehemiah%2011&version=ESV
+  Nehemiah 12: https://www.biblegateway.com/passage/?search=Nehemiah%2012&version=ESV
+  Nehemiah 13: https://www.biblegateway.com/passage/?search=Nehemiah%2013&version=ESV
+书名: Esther, 章节数: 10
+  Esther 1: https://www.biblegateway.com/passage/?search=Esther%201&version=ESV
+  Esther 2: https://www.biblegateway.com/passage/?search=Esther%202&version=ESV
+  Esther 3: https://www.biblegateway.com/passage/?search=Esther%203&version=ESV
+  Esther 4: https://www.biblegateway.com/passage/?search=Esther%204&version=ESV
+  Esther 5: https://www.biblegateway.com/passage/?search=Esther%205&version=ESV
+  Esther 6: https://www.biblegateway.com/passage/?search=Esther%206&version=ESV
+  Esther 7: https://www.biblegateway.com/passage/?search=Esther%207&version=ESV
+  Esther 8: https://www.biblegateway.com/passage/?search=Esther%208&version=ESV
+  Esther 9: https://www.biblegateway.com/passage/?search=Esther%209&version=ESV
+  Esther 10: https://www.biblegateway.com/passage/?search=Esther%2010&version=ESV
+书名: Job, 章节数: 42
+  Job 1: https://www.biblegateway.com/passage/?search=Job%201&version=ESV
+  Job 2: https://www.biblegateway.com/passage/?search=Job%202&version=ESV
+  Job 3: https://www.biblegateway.com/passage/?search=Job%203&version=ESV
+  Job 4: https://www.biblegateway.com/passage/?search=Job%204&version=ESV
+  Job 5: https://www.biblegateway.com/passage/?search=Job%205&version=ESV
+  Job 6: https://www.biblegateway.com/passage/?search=Job%206&version=ESV
+  Job 7: https://www.biblegateway.com/passage/?search=Job%207&version=ESV
+  Job 8: https://www.biblegateway.com/passage/?search=Job%208&version=ESV
+  Job 9: https://www.biblegateway.com/passage/?search=Job%209&version=ESV
+  Job 10: https://www.biblegateway.com/passage/?search=Job%2010&version=ESV
+  Job 11: https://www.biblegateway.com/passage/?search=Job%2011&version=ESV
+  Job 12: https://www.biblegateway.com/passage/?search=Job%2012&version=ESV
+  Job 13: https://www.biblegateway.com/passage/?search=Job%2013&version=ESV
+  Job 14: https://www.biblegateway.com/passage/?search=Job%2014&version=ESV
+  Job 15: https://www.biblegateway.com/passage/?search=Job%2015&version=ESV
+  Job 16: https://www.biblegateway.com/passage/?search=Job%2016&version=ESV
+  Job 17: https://www.biblegateway.com/passage/?search=Job%2017&version=ESV
+  Job 18: https://www.biblegateway.com/passage/?search=Job%2018&version=ESV
+  Job 19: https://www.biblegateway.com/passage/?search=Job%2019&version=ESV
+  Job 20: https://www.biblegateway.com/passage/?search=Job%2020&version=ESV
+  Job 21: https://www.biblegateway.com/passage/?search=Job%2021&version=ESV
+  Job 22: https://www.biblegateway.com/passage/?search=Job%2022&version=ESV
+  Job 23: https://www.biblegateway.com/passage/?search=Job%2023&version=ESV
+  Job 24: https://www.biblegateway.com/passage/?search=Job%2024&version=ESV
+  Job 25: https://www.biblegateway.com/passage/?search=Job%2025&version=ESV
+  Job 26: https://www.biblegateway.com/passage/?search=Job%2026&version=ESV
+  Job 27: https://www.biblegateway.com/passage/?search=Job%2027&version=ESV
+  Job 28: https://www.biblegateway.com/passage/?search=Job%2028&version=ESV
+  Job 29: https://www.biblegateway.com/passage/?search=Job%2029&version=ESV
+  Job 30: https://www.biblegateway.com/passage/?search=Job%2030&version=ESV
+  Job 31: https://www.biblegateway.com/passage/?search=Job%2031&version=ESV
+  Job 32: https://www.biblegateway.com/passage/?search=Job%2032&version=ESV
+  Job 33: https://www.biblegateway.com/passage/?search=Job%2033&version=ESV
+  Job 34: https://www.biblegateway.com/passage/?search=Job%2034&version=ESV
+  Job 35: https://www.biblegateway.com/passage/?search=Job%2035&version=ESV
+  Job 36: https://www.biblegateway.com/passage/?search=Job%2036&version=ESV
+  Job 37: https://www.biblegateway.com/passage/?search=Job%2037&version=ESV
+  Job 38: https://www.biblegateway.com/passage/?search=Job%2038&version=ESV
+  Job 39: https://www.biblegateway.com/passage/?search=Job%2039&version=ESV
+  Job 40: https://www.biblegateway.com/passage/?search=Job%2040&version=ESV
+  Job 41: https://www.biblegateway.com/passage/?search=Job%2041&version=ESV
+  Job 42: https://www.biblegateway.com/passage/?search=Job%2042&version=ESV
+书名: Psalm, 章节数: 150
+  Psalm 1: https://www.biblegateway.com/passage/?search=Psalm%201&version=ESV
+  Psalm 2: https://www.biblegateway.com/passage/?search=Psalm%202&version=ESV
+  Psalm 3: https://www.biblegateway.com/passage/?search=Psalm%203&version=ESV
+  Psalm 4: https://www.biblegateway.com/passage/?search=Psalm%204&version=ESV
+  Psalm 5: https://www.biblegateway.com/passage/?search=Psalm%205&version=ESV
+  Psalm 6: https://www.biblegateway.com/passage/?search=Psalm%206&version=ESV
+  Psalm 7: https://www.biblegateway.com/passage/?search=Psalm%207&version=ESV
+  Psalm 8: https://www.biblegateway.com/passage/?search=Psalm%208&version=ESV
+  Psalm 9: https://www.biblegateway.com/passage/?search=Psalm%209&version=ESV
+  Psalm 10: https://www.biblegateway.com/passage/?search=Psalm%2010&version=ESV
+  Psalm 11: https://www.biblegateway.com/passage/?search=Psalm%2011&version=ESV
+  Psalm 12: https://www.biblegateway.com/passage/?search=Psalm%2012&version=ESV
+  Psalm 13: https://www.biblegateway.com/passage/?search=Psalm%2013&version=ESV
+  Psalm 14: https://www.biblegateway.com/passage/?search=Psalm%2014&version=ESV
+  Psalm 15: https://www.biblegateway.com/passage/?search=Psalm%2015&version=ESV
+  Psalm 16: https://www.biblegateway.com/passage/?search=Psalm%2016&version=ESV
+  Psalm 17: https://www.biblegateway.com/passage/?search=Psalm%2017&version=ESV
+  Psalm 18: https://www.biblegateway.com/passage/?search=Psalm%2018&version=ESV
+  Psalm 19: https://www.biblegateway.com/passage/?search=Psalm%2019&version=ESV
+  Psalm 20: https://www.biblegateway.com/passage/?search=Psalm%2020&version=ESV
+  Psalm 21: https://www.biblegateway.com/passage/?search=Psalm%2021&version=ESV
+  Psalm 22: https://www.biblegateway.com/passage/?search=Psalm%2022&version=ESV
+  Psalm 23: https://www.biblegateway.com/passage/?search=Psalm%2023&version=ESV
+  Psalm 24: https://www.biblegateway.com/passage/?search=Psalm%2024&version=ESV
+  Psalm 25: https://www.biblegateway.com/passage/?search=Psalm%2025&version=ESV
+  Psalm 26: https://www.biblegateway.com/passage/?search=Psalm%2026&version=ESV
+  Psalm 27: https://www.biblegateway.com/passage/?search=Psalm%2027&version=ESV
+  Psalm 28: https://www.biblegateway.com/passage/?search=Psalm%2028&version=ESV
+  Psalm 29: https://www.biblegateway.com/passage/?search=Psalm%2029&version=ESV
+  Psalm 30: https://www.biblegateway.com/passage/?search=Psalm%2030&version=ESV
+  Psalm 31: https://www.biblegateway.com/passage/?search=Psalm%2031&version=ESV
+  Psalm 32: https://www.biblegateway.com/passage/?search=Psalm%2032&version=ESV
+  Psalm 33: https://www.biblegateway.com/passage/?search=Psalm%2033&version=ESV
+  Psalm 34: https://www.biblegateway.com/passage/?search=Psalm%2034&version=ESV
+  Psalm 35: https://www.biblegateway.com/passage/?search=Psalm%2035&version=ESV
+  Psalm 36: https://www.biblegateway.com/passage/?search=Psalm%2036&version=ESV
+  Psalm 37: https://www.biblegateway.com/passage/?search=Psalm%2037&version=ESV
+  Psalm 38: https://www.biblegateway.com/passage/?search=Psalm%2038&version=ESV
+  Psalm 39: https://www.biblegateway.com/passage/?search=Psalm%2039&version=ESV
+  Psalm 40: https://www.biblegateway.com/passage/?search=Psalm%2040&version=ESV
+  Psalm 41: https://www.biblegateway.com/passage/?search=Psalm%2041&version=ESV
+  Psalm 42: https://www.biblegateway.com/passage/?search=Psalm%2042&version=ESV
+  Psalm 43: https://www.biblegateway.com/passage/?search=Psalm%2043&version=ESV
+  Psalm 44: https://www.biblegateway.com/passage/?search=Psalm%2044&version=ESV
+  Psalm 45: https://www.biblegateway.com/passage/?search=Psalm%2045&version=ESV
+  Psalm 46: https://www.biblegateway.com/passage/?search=Psalm%2046&version=ESV
+  Psalm 47: https://www.biblegateway.com/passage/?search=Psalm%2047&version=ESV
+  Psalm 48: https://www.biblegateway.com/passage/?search=Psalm%2048&version=ESV
+  Psalm 49: https://www.biblegateway.com/passage/?search=Psalm%2049&version=ESV
+  Psalm 50: https://www.biblegateway.com/passage/?search=Psalm%2050&version=ESV
+  Psalm 51: https://www.biblegateway.com/passage/?search=Psalm%2051&version=ESV
+  Psalm 52: https://www.biblegateway.com/passage/?search=Psalm%2052&version=ESV
+  Psalm 53: https://www.biblegateway.com/passage/?search=Psalm%2053&version=ESV
+  Psalm 54: https://www.biblegateway.com/passage/?search=Psalm%2054&version=ESV
+  Psalm 55: https://www.biblegateway.com/passage/?search=Psalm%2055&version=ESV
+  Psalm 56: https://www.biblegateway.com/passage/?search=Psalm%2056&version=ESV
+  Psalm 57: https://www.biblegateway.com/passage/?search=Psalm%2057&version=ESV
+  Psalm 58: https://www.biblegateway.com/passage/?search=Psalm%2058&version=ESV
+  Psalm 59: https://www.biblegateway.com/passage/?search=Psalm%2059&version=ESV
+  Psalm 60: https://www.biblegateway.com/passage/?search=Psalm%2060&version=ESV
+  Psalm 61: https://www.biblegateway.com/passage/?search=Psalm%2061&version=ESV
+  Psalm 62: https://www.biblegateway.com/passage/?search=Psalm%2062&version=ESV
+  Psalm 63: https://www.biblegateway.com/passage/?search=Psalm%2063&version=ESV
+  Psalm 64: https://www.biblegateway.com/passage/?search=Psalm%2064&version=ESV
+  Psalm 65: https://www.biblegateway.com/passage/?search=Psalm%2065&version=ESV
+  Psalm 66: https://www.biblegateway.com/passage/?search=Psalm%2066&version=ESV
+  Psalm 67: https://www.biblegateway.com/passage/?search=Psalm%2067&version=ESV
+  Psalm 68: https://www.biblegateway.com/passage/?search=Psalm%2068&version=ESV
+  Psalm 69: https://www.biblegateway.com/passage/?search=Psalm%2069&version=ESV
+  Psalm 70: https://www.biblegateway.com/passage/?search=Psalm%2070&version=ESV
+  Psalm 71: https://www.biblegateway.com/passage/?search=Psalm%2071&version=ESV
+  Psalm 72: https://www.biblegateway.com/passage/?search=Psalm%2072&version=ESV
+  Psalm 73: https://www.biblegateway.com/passage/?search=Psalm%2073&version=ESV
+  Psalm 74: https://www.biblegateway.com/passage/?search=Psalm%2074&version=ESV
+  Psalm 75: https://www.biblegateway.com/passage/?search=Psalm%2075&version=ESV
+  Psalm 76: https://www.biblegateway.com/passage/?search=Psalm%2076&version=ESV
+  Psalm 77: https://www.biblegateway.com/passage/?search=Psalm%2077&version=ESV
+  Psalm 78: https://www.biblegateway.com/passage/?search=Psalm%2078&version=ESV
+  Psalm 79: https://www.biblegateway.com/passage/?search=Psalm%2079&version=ESV
+  Psalm 80: https://www.biblegateway.com/passage/?search=Psalm%2080&version=ESV
+  Psalm 81: https://www.biblegateway.com/passage/?search=Psalm%2081&version=ESV
+  Psalm 82: https://www.biblegateway.com/passage/?search=Psalm%2082&version=ESV
+  Psalm 83: https://www.biblegateway.com/passage/?search=Psalm%2083&version=ESV
+  Psalm 84: https://www.biblegateway.com/passage/?search=Psalm%2084&version=ESV
+  Psalm 85: https://www.biblegateway.com/passage/?search=Psalm%2085&version=ESV
+  Psalm 86: https://www.biblegateway.com/passage/?search=Psalm%2086&version=ESV
+  Psalm 87: https://www.biblegateway.com/passage/?search=Psalm%2087&version=ESV
+  Psalm 88: https://www.biblegateway.com/passage/?search=Psalm%2088&version=ESV
+  Psalm 89: https://www.biblegateway.com/passage/?search=Psalm%2089&version=ESV
+  Psalm 90: https://www.biblegateway.com/passage/?search=Psalm%2090&version=ESV
+  Psalm 91: https://www.biblegateway.com/passage/?search=Psalm%2091&version=ESV
+  Psalm 92: https://www.biblegateway.com/passage/?search=Psalm%2092&version=ESV
+  Psalm 93: https://www.biblegateway.com/passage/?search=Psalm%2093&version=ESV
+  Psalm 94: https://www.biblegateway.com/passage/?search=Psalm%2094&version=ESV
+  Psalm 95: https://www.biblegateway.com/passage/?search=Psalm%2095&version=ESV
+  Psalm 96: https://www.biblegateway.com/passage/?search=Psalm%2096&version=ESV
+  Psalm 97: https://www.biblegateway.com/passage/?search=Psalm%2097&version=ESV
+  Psalm 98: https://www.biblegateway.com/passage/?search=Psalm%2098&version=ESV
+  Psalm 99: https://www.biblegateway.com/passage/?search=Psalm%2099&version=ESV
+  Psalm 100: https://www.biblegateway.com/passage/?search=Psalm%20100&version=ESV
+  Psalm 101: https://www.biblegateway.com/passage/?search=Psalm%20101&version=ESV
+  Psalm 102: https://www.biblegateway.com/passage/?search=Psalm%20102&version=ESV
+  Psalm 103: https://www.biblegateway.com/passage/?search=Psalm%20103&version=ESV
+  Psalm 104: https://www.biblegateway.com/passage/?search=Psalm%20104&version=ESV
+  Psalm 105: https://www.biblegateway.com/passage/?search=Psalm%20105&version=ESV
+  Psalm 106: https://www.biblegateway.com/passage/?search=Psalm%20106&version=ESV
+  Psalm 107: https://www.biblegateway.com/passage/?search=Psalm%20107&version=ESV
+  Psalm 108: https://www.biblegateway.com/passage/?search=Psalm%20108&version=ESV
+  Psalm 109: https://www.biblegateway.com/passage/?search=Psalm%20109&version=ESV
+  Psalm 110: https://www.biblegateway.com/passage/?search=Psalm%20110&version=ESV
+  Psalm 111: https://www.biblegateway.com/passage/?search=Psalm%20111&version=ESV
+  Psalm 112: https://www.biblegateway.com/passage/?search=Psalm%20112&version=ESV
+  Psalm 113: https://www.biblegateway.com/passage/?search=Psalm%20113&version=ESV
+  Psalm 114: https://www.biblegateway.com/passage/?search=Psalm%20114&version=ESV
+  Psalm 115: https://www.biblegateway.com/passage/?search=Psalm%20115&version=ESV
+  Psalm 116: https://www.biblegateway.com/passage/?search=Psalm%20116&version=ESV
+  Psalm 117: https://www.biblegateway.com/passage/?search=Psalm%20117&version=ESV
+  Psalm 118: https://www.biblegateway.com/passage/?search=Psalm%20118&version=ESV
+  Psalm 119: https://www.biblegateway.com/passage/?search=Psalm%20119&version=ESV
+  Psalm 120: https://www.biblegateway.com/passage/?search=Psalm%20120&version=ESV
+  Psalm 121: https://www.biblegateway.com/passage/?search=Psalm%20121&version=ESV
+  Psalm 122: https://www.biblegateway.com/passage/?search=Psalm%20122&version=ESV
+  Psalm 123: https://www.biblegateway.com/passage/?search=Psalm%20123&version=ESV
+  Psalm 124: https://www.biblegateway.com/passage/?search=Psalm%20124&version=ESV
+  Psalm 125: https://www.biblegateway.com/passage/?search=Psalm%20125&version=ESV
+  Psalm 126: https://www.biblegateway.com/passage/?search=Psalm%20126&version=ESV
+  Psalm 127: https://www.biblegateway.com/passage/?search=Psalm%20127&version=ESV
+  Psalm 128: https://www.biblegateway.com/passage/?search=Psalm%20128&version=ESV
+  Psalm 129: https://www.biblegateway.com/passage/?search=Psalm%20129&version=ESV
+  Psalm 130: https://www.biblegateway.com/passage/?search=Psalm%20130&version=ESV
+  Psalm 131: https://www.biblegateway.com/passage/?search=Psalm%20131&version=ESV
+  Psalm 132: https://www.biblegateway.com/passage/?search=Psalm%20132&version=ESV
+  Psalm 133: https://www.biblegateway.com/passage/?search=Psalm%20133&version=ESV
+  Psalm 134: https://www.biblegateway.com/passage/?search=Psalm%20134&version=ESV
+  Psalm 135: https://www.biblegateway.com/passage/?search=Psalm%20135&version=ESV
+  Psalm 136: https://www.biblegateway.com/passage/?search=Psalm%20136&version=ESV
+  Psalm 137: https://www.biblegateway.com/passage/?search=Psalm%20137&version=ESV
+  Psalm 138: https://www.biblegateway.com/passage/?search=Psalm%20138&version=ESV
+  Psalm 139: https://www.biblegateway.com/passage/?search=Psalm%20139&version=ESV
+  Psalm 140: https://www.biblegateway.com/passage/?search=Psalm%20140&version=ESV
+  Psalm 141: https://www.biblegateway.com/passage/?search=Psalm%20141&version=ESV
+  Psalm 142: https://www.biblegateway.com/passage/?search=Psalm%20142&version=ESV
+  Psalm 143: https://www.biblegateway.com/passage/?search=Psalm%20143&version=ESV
+  Psalm 144: https://www.biblegateway.com/passage/?search=Psalm%20144&version=ESV
+  Psalm 145: https://www.biblegateway.com/passage/?search=Psalm%20145&version=ESV
+  Psalm 146: https://www.biblegateway.com/passage/?search=Psalm%20146&version=ESV
+  Psalm 147: https://www.biblegateway.com/passage/?search=Psalm%20147&version=ESV
+  Psalm 148: https://www.biblegateway.com/passage/?search=Psalm%20148&version=ESV
+  Psalm 149: https://www.biblegateway.com/passage/?search=Psalm%20149&version=ESV
+  Psalm 150: https://www.biblegateway.com/passage/?search=Psalm%20150&version=ESV
+书名: Proverbs, 章节数: 31
+  Proverbs 1: https://www.biblegateway.com/passage/?search=Proverbs%201&version=ESV
+  Proverbs 2: https://www.biblegateway.com/passage/?search=Proverbs%202&version=ESV
+  Proverbs 3: https://www.biblegateway.com/passage/?search=Proverbs%203&version=ESV
+  Proverbs 4: https://www.biblegateway.com/passage/?search=Proverbs%204&version=ESV
+  Proverbs 5: https://www.biblegateway.com/passage/?search=Proverbs%205&version=ESV
+  Proverbs 6: https://www.biblegateway.com/passage/?search=Proverbs%206&version=ESV
+  Proverbs 7: https://www.biblegateway.com/passage/?search=Proverbs%207&version=ESV
+  Proverbs 8: https://www.biblegateway.com/passage/?search=Proverbs%208&version=ESV
+  Proverbs 9: https://www.biblegateway.com/passage/?search=Proverbs%209&version=ESV
+  Proverbs 10: https://www.biblegateway.com/passage/?search=Proverbs%2010&version=ESV
+  Proverbs 11: https://www.biblegateway.com/passage/?search=Proverbs%2011&version=ESV
+  Proverbs 12: https://www.biblegateway.com/passage/?search=Proverbs%2012&version=ESV
+  Proverbs 13: https://www.biblegateway.com/passage/?search=Proverbs%2013&version=ESV
+  Proverbs 14: https://www.biblegateway.com/passage/?search=Proverbs%2014&version=ESV
+  Proverbs 15: https://www.biblegateway.com/passage/?search=Proverbs%2015&version=ESV
+  Proverbs 16: https://www.biblegateway.com/passage/?search=Proverbs%2016&version=ESV
+  Proverbs 17: https://www.biblegateway.com/passage/?search=Proverbs%2017&version=ESV
+  Proverbs 18: https://www.biblegateway.com/passage/?search=Proverbs%2018&version=ESV
+  Proverbs 19: https://www.biblegateway.com/passage/?search=Proverbs%2019&version=ESV
+  Proverbs 20: https://www.biblegateway.com/passage/?search=Proverbs%2020&version=ESV
+  Proverbs 21: https://www.biblegateway.com/passage/?search=Proverbs%2021&version=ESV
+  Proverbs 22: https://www.biblegateway.com/passage/?search=Proverbs%2022&version=ESV
+  Proverbs 23: https://www.biblegateway.com/passage/?search=Proverbs%2023&version=ESV
+  Proverbs 24: https://www.biblegateway.com/passage/?search=Proverbs%2024&version=ESV
+  Proverbs 25: https://www.biblegateway.com/passage/?search=Proverbs%2025&version=ESV
+  Proverbs 26: https://www.biblegateway.com/passage/?search=Proverbs%2026&version=ESV
+  Proverbs 27: https://www.biblegateway.com/passage/?search=Proverbs%2027&version=ESV
+  Proverbs 28: https://www.biblegateway.com/passage/?search=Proverbs%2028&version=ESV
+  Proverbs 29: https://www.biblegateway.com/passage/?search=Proverbs%2029&version=ESV
+  Proverbs 30: https://www.biblegateway.com/passage/?search=Proverbs%2030&version=ESV
+  Proverbs 31: https://www.biblegateway.com/passage/?search=Proverbs%2031&version=ESV
+书名: Ecclesiastes, 章节数: 12
+  Ecclesiastes 1: https://www.biblegateway.com/passage/?search=Ecclesiastes%201&version=ESV
+  Ecclesiastes 2: https://www.biblegateway.com/passage/?search=Ecclesiastes%202&version=ESV
+  Ecclesiastes 3: https://www.biblegateway.com/passage/?search=Ecclesiastes%203&version=ESV
+  Ecclesiastes 4: https://www.biblegateway.com/passage/?search=Ecclesiastes%204&version=ESV
+  Ecclesiastes 5: https://www.biblegateway.com/passage/?search=Ecclesiastes%205&version=ESV
+  Ecclesiastes 6: https://www.biblegateway.com/passage/?search=Ecclesiastes%206&version=ESV
+  Ecclesiastes 7: https://www.biblegateway.com/passage/?search=Ecclesiastes%207&version=ESV
+  Ecclesiastes 8: https://www.biblegateway.com/passage/?search=Ecclesiastes%208&version=ESV
+  Ecclesiastes 9: https://www.biblegateway.com/passage/?search=Ecclesiastes%209&version=ESV
+  Ecclesiastes 10: https://www.biblegateway.com/passage/?search=Ecclesiastes%2010&version=ESV
+  Ecclesiastes 11: https://www.biblegateway.com/passage/?search=Ecclesiastes%2011&version=ESV
+  Ecclesiastes 12: https://www.biblegateway.com/passage/?search=Ecclesiastes%2012&version=ESV
+书名: Song of Solomon, 章节数: 8
+  Song of Solomon 1: https://www.biblegateway.com/passage/?search=Song%20of%20Solomon%201&version=ESV
+  Song of Solomon 2: https://www.biblegateway.com/passage/?search=Song%20of%20Solomon%202&version=ESV
+  Song of Solomon 3: https://www.biblegateway.com/passage/?search=Song%20of%20Solomon%203&version=ESV
+  Song of Solomon 4: https://www.biblegateway.com/passage/?search=Song%20of%20Solomon%204&version=ESV
+  Song of Solomon 5: https://www.biblegateway.com/passage/?search=Song%20of%20Solomon%205&version=ESV
+  Song of Solomon 6: https://www.biblegateway.com/passage/?search=Song%20of%20Solomon%206&version=ESV
+  Song of Solomon 7: https://www.biblegateway.com/passage/?search=Song%20of%20Solomon%207&version=ESV
+  Song of Solomon 8: https://www.biblegateway.com/passage/?search=Song%20of%20Solomon%208&version=ESV
+书名: Isaiah, 章节数: 66
+  Isaiah 1: https://www.biblegateway.com/passage/?search=Isaiah%201&version=ESV
+  Isaiah 2: https://www.biblegateway.com/passage/?search=Isaiah%202&version=ESV
+  Isaiah 3: https://www.biblegateway.com/passage/?search=Isaiah%203&version=ESV
+  Isaiah 4: https://www.biblegateway.com/passage/?search=Isaiah%204&version=ESV
+  Isaiah 5: https://www.biblegateway.com/passage/?search=Isaiah%205&version=ESV
+  Isaiah 6: https://www.biblegateway.com/passage/?search=Isaiah%206&version=ESV
+  Isaiah 7: https://www.biblegateway.com/passage/?search=Isaiah%207&version=ESV
+  Isaiah 8: https://www.biblegateway.com/passage/?search=Isaiah%208&version=ESV
+  Isaiah 9: https://www.biblegateway.com/passage/?search=Isaiah%209&version=ESV
+  Isaiah 10: https://www.biblegateway.com/passage/?search=Isaiah%2010&version=ESV
+  Isaiah 11: https://www.biblegateway.com/passage/?search=Isaiah%2011&version=ESV
+  Isaiah 12: https://www.biblegateway.com/passage/?search=Isaiah%2012&version=ESV
+  Isaiah 13: https://www.biblegateway.com/passage/?search=Isaiah%2013&version=ESV
+  Isaiah 14: https://www.biblegateway.com/passage/?search=Isaiah%2014&version=ESV
+  Isaiah 15: https://www.biblegateway.com/passage/?search=Isaiah%2015&version=ESV
+  Isaiah 16: https://www.biblegateway.com/passage/?search=Isaiah%2016&version=ESV
+  Isaiah 17: https://www.biblegateway.com/passage/?search=Isaiah%2017&version=ESV
+  Isaiah 18: https://www.biblegateway.com/passage/?search=Isaiah%2018&version=ESV
+  Isaiah 19: https://www.biblegateway.com/passage/?search=Isaiah%2019&version=ESV
+  Isaiah 20: https://www.biblegateway.com/passage/?search=Isaiah%2020&version=ESV
+  Isaiah 21: https://www.biblegateway.com/passage/?search=Isaiah%2021&version=ESV
+  Isaiah 22: https://www.biblegateway.com/passage/?search=Isaiah%2022&version=ESV
+  Isaiah 23: https://www.biblegateway.com/passage/?search=Isaiah%2023&version=ESV
+  Isaiah 24: https://www.biblegateway.com/passage/?search=Isaiah%2024&version=ESV
+  Isaiah 25: https://www.biblegateway.com/passage/?search=Isaiah%2025&version=ESV
+  Isaiah 26: https://www.biblegateway.com/passage/?search=Isaiah%2026&version=ESV
+  Isaiah 27: https://www.biblegateway.com/passage/?search=Isaiah%2027&version=ESV
+  Isaiah 28: https://www.biblegateway.com/passage/?search=Isaiah%2028&version=ESV
+  Isaiah 29: https://www.biblegateway.com/passage/?search=Isaiah%2029&version=ESV
+  Isaiah 30: https://www.biblegateway.com/passage/?search=Isaiah%2030&version=ESV
+  Isaiah 31: https://www.biblegateway.com/passage/?search=Isaiah%2031&version=ESV
+  Isaiah 32: https://www.biblegateway.com/passage/?search=Isaiah%2032&version=ESV
+  Isaiah 33: https://www.biblegateway.com/passage/?search=Isaiah%2033&version=ESV
+  Isaiah 34: https://www.biblegateway.com/passage/?search=Isaiah%2034&version=ESV
+  Isaiah 35: https://www.biblegateway.com/passage/?search=Isaiah%2035&version=ESV
+  Isaiah 36: https://www.biblegateway.com/passage/?search=Isaiah%2036&version=ESV
+  Isaiah 37: https://www.biblegateway.com/passage/?search=Isaiah%2037&version=ESV
+  Isaiah 38: https://www.biblegateway.com/passage/?search=Isaiah%2038&version=ESV
+  Isaiah 39: https://www.biblegateway.com/passage/?search=Isaiah%2039&version=ESV
+  Isaiah 40: https://www.biblegateway.com/passage/?search=Isaiah%2040&version=ESV
+  Isaiah 41: https://www.biblegateway.com/passage/?search=Isaiah%2041&version=ESV
+  Isaiah 42: https://www.biblegateway.com/passage/?search=Isaiah%2042&version=ESV
+  Isaiah 43: https://www.biblegateway.com/passage/?search=Isaiah%2043&version=ESV
+  Isaiah 44: https://www.biblegateway.com/passage/?search=Isaiah%2044&version=ESV
+  Isaiah 45: https://www.biblegateway.com/passage/?search=Isaiah%2045&version=ESV
+  Isaiah 46: https://www.biblegateway.com/passage/?search=Isaiah%2046&version=ESV
+  Isaiah 47: https://www.biblegateway.com/passage/?search=Isaiah%2047&version=ESV
+  Isaiah 48: https://www.biblegateway.com/passage/?search=Isaiah%2048&version=ESV
+  Isaiah 49: https://www.biblegateway.com/passage/?search=Isaiah%2049&version=ESV
+  Isaiah 50: https://www.biblegateway.com/passage/?search=Isaiah%2050&version=ESV
+  Isaiah 51: https://www.biblegateway.com/passage/?search=Isaiah%2051&version=ESV
+  Isaiah 52: https://www.biblegateway.com/passage/?search=Isaiah%2052&version=ESV
+  Isaiah 53: https://www.biblegateway.com/passage/?search=Isaiah%2053&version=ESV
+  Isaiah 54: https://www.biblegateway.com/passage/?search=Isaiah%2054&version=ESV
+  Isaiah 55: https://www.biblegateway.com/passage/?search=Isaiah%2055&version=ESV
+  Isaiah 56: https://www.biblegateway.com/passage/?search=Isaiah%2056&version=ESV
+  Isaiah 57: https://www.biblegateway.com/passage/?search=Isaiah%2057&version=ESV
+  Isaiah 58: https://www.biblegateway.com/passage/?search=Isaiah%2058&version=ESV
+  Isaiah 59: https://www.biblegateway.com/passage/?search=Isaiah%2059&version=ESV
+  Isaiah 60: https://www.biblegateway.com/passage/?search=Isaiah%2060&version=ESV
+  Isaiah 61: https://www.biblegateway.com/passage/?search=Isaiah%2061&version=ESV
+  Isaiah 62: https://www.biblegateway.com/passage/?search=Isaiah%2062&version=ESV
+  Isaiah 63: https://www.biblegateway.com/passage/?search=Isaiah%2063&version=ESV
+  Isaiah 64: https://www.biblegateway.com/passage/?search=Isaiah%2064&version=ESV
+  Isaiah 65: https://www.biblegateway.com/passage/?search=Isaiah%2065&version=ESV
+  Isaiah 66: https://www.biblegateway.com/passage/?search=Isaiah%2066&version=ESV
+书名: Jeremiah, 章节数: 52
+  Jeremiah 1: https://www.biblegateway.com/passage/?search=Jeremiah%201&version=ESV
+  Jeremiah 2: https://www.biblegateway.com/passage/?search=Jeremiah%202&version=ESV
+  Jeremiah 3: https://www.biblegateway.com/passage/?search=Jeremiah%203&version=ESV
+  Jeremiah 4: https://www.biblegateway.com/passage/?search=Jeremiah%204&version=ESV
+  Jeremiah 5: https://www.biblegateway.com/passage/?search=Jeremiah%205&version=ESV
+  Jeremiah 6: https://www.biblegateway.com/passage/?search=Jeremiah%206&version=ESV
+  Jeremiah 7: https://www.biblegateway.com/passage/?search=Jeremiah%207&version=ESV
+  Jeremiah 8: https://www.biblegateway.com/passage/?search=Jeremiah%208&version=ESV
+  Jeremiah 9: https://www.biblegateway.com/passage/?search=Jeremiah%209&version=ESV
+  Jeremiah 10: https://www.biblegateway.com/passage/?search=Jeremiah%2010&version=ESV
+  Jeremiah 11: https://www.biblegateway.com/passage/?search=Jeremiah%2011&version=ESV
+  Jeremiah 12: https://www.biblegateway.com/passage/?search=Jeremiah%2012&version=ESV
+  Jeremiah 13: https://www.biblegateway.com/passage/?search=Jeremiah%2013&version=ESV
+  Jeremiah 14: https://www.biblegateway.com/passage/?search=Jeremiah%2014&version=ESV
+  Jeremiah 15: https://www.biblegateway.com/passage/?search=Jeremiah%2015&version=ESV
+  Jeremiah 16: https://www.biblegateway.com/passage/?search=Jeremiah%2016&version=ESV
+  Jeremiah 17: https://www.biblegateway.com/passage/?search=Jeremiah%2017&version=ESV
+  Jeremiah 18: https://www.biblegateway.com/passage/?search=Jeremiah%2018&version=ESV
+  Jeremiah 19: https://www.biblegateway.com/passage/?search=Jeremiah%2019&version=ESV
+  Jeremiah 20: https://www.biblegateway.com/passage/?search=Jeremiah%2020&version=ESV
+  Jeremiah 21: https://www.biblegateway.com/passage/?search=Jeremiah%2021&version=ESV
+  Jeremiah 22: https://www.biblegateway.com/passage/?search=Jeremiah%2022&version=ESV
+  Jeremiah 23: https://www.biblegateway.com/passage/?search=Jeremiah%2023&version=ESV
+  Jeremiah 24: https://www.biblegateway.com/passage/?search=Jeremiah%2024&version=ESV
+  Jeremiah 25: https://www.biblegateway.com/passage/?search=Jeremiah%2025&version=ESV
+  Jeremiah 26: https://www.biblegateway.com/passage/?search=Jeremiah%2026&version=ESV
+  Jeremiah 27: https://www.biblegateway.com/passage/?search=Jeremiah%2027&version=ESV
+  Jeremiah 28: https://www.biblegateway.com/passage/?search=Jeremiah%2028&version=ESV
+  Jeremiah 29: https://www.biblegateway.com/passage/?search=Jeremiah%2029&version=ESV
+  Jeremiah 30: https://www.biblegateway.com/passage/?search=Jeremiah%2030&version=ESV
+  Jeremiah 31: https://www.biblegateway.com/passage/?search=Jeremiah%2031&version=ESV
+  Jeremiah 32: https://www.biblegateway.com/passage/?search=Jeremiah%2032&version=ESV
+  Jeremiah 33: https://www.biblegateway.com/passage/?search=Jeremiah%2033&version=ESV
+  Jeremiah 34: https://www.biblegateway.com/passage/?search=Jeremiah%2034&version=ESV
+  Jeremiah 35: https://www.biblegateway.com/passage/?search=Jeremiah%2035&version=ESV
+  Jeremiah 36: https://www.biblegateway.com/passage/?search=Jeremiah%2036&version=ESV
+  Jeremiah 37: https://www.biblegateway.com/passage/?search=Jeremiah%2037&version=ESV
+  Jeremiah 38: https://www.biblegateway.com/passage/?search=Jeremiah%2038&version=ESV
+  Jeremiah 39: https://www.biblegateway.com/passage/?search=Jeremiah%2039&version=ESV
+  Jeremiah 40: https://www.biblegateway.com/passage/?search=Jeremiah%2040&version=ESV
+  Jeremiah 41: https://www.biblegateway.com/passage/?search=Jeremiah%2041&version=ESV
+  Jeremiah 42: https://www.biblegateway.com/passage/?search=Jeremiah%2042&version=ESV
+  Jeremiah 43: https://www.biblegateway.com/passage/?search=Jeremiah%2043&version=ESV
+  Jeremiah 44: https://www.biblegateway.com/passage/?search=Jeremiah%2044&version=ESV
+  Jeremiah 45: https://www.biblegateway.com/passage/?search=Jeremiah%2045&version=ESV
+  Jeremiah 46: https://www.biblegateway.com/passage/?search=Jeremiah%2046&version=ESV
+  Jeremiah 47: https://www.biblegateway.com/passage/?search=Jeremiah%2047&version=ESV
+  Jeremiah 48: https://www.biblegateway.com/passage/?search=Jeremiah%2048&version=ESV
+  Jeremiah 49: https://www.biblegateway.com/passage/?search=Jeremiah%2049&version=ESV
+  Jeremiah 50: https://www.biblegateway.com/passage/?search=Jeremiah%2050&version=ESV
+  Jeremiah 51: https://www.biblegateway.com/passage/?search=Jeremiah%2051&version=ESV
+  Jeremiah 52: https://www.biblegateway.com/passage/?search=Jeremiah%2052&version=ESV
+书名: Lamentations, 章节数: 5
+  Lamentations 1: https://www.biblegateway.com/passage/?search=Lamentations%201&version=ESV
+  Lamentations 2: https://www.biblegateway.com/passage/?search=Lamentations%202&version=ESV
+  Lamentations 3: https://www.biblegateway.com/passage/?search=Lamentations%203&version=ESV
+  Lamentations 4: https://www.biblegateway.com/passage/?search=Lamentations%204&version=ESV
+  Lamentations 5: https://www.biblegateway.com/passage/?search=Lamentations%205&version=ESV
+书名: Ezekiel, 章节数: 48
+  Ezekiel 1: https://www.biblegateway.com/passage/?search=Ezekiel%201&version=ESV
+  Ezekiel 2: https://www.biblegateway.com/passage/?search=Ezekiel%202&version=ESV
+  Ezekiel 3: https://www.biblegateway.com/passage/?search=Ezekiel%203&version=ESV
+  Ezekiel 4: https://www.biblegateway.com/passage/?search=Ezekiel%204&version=ESV
+  Ezekiel 5: https://www.biblegateway.com/passage/?search=Ezekiel%205&version=ESV
+  Ezekiel 6: https://www.biblegateway.com/passage/?search=Ezekiel%206&version=ESV
+  Ezekiel 7: https://www.biblegateway.com/passage/?search=Ezekiel%207&version=ESV
+  Ezekiel 8: https://www.biblegateway.com/passage/?search=Ezekiel%208&version=ESV
+  Ezekiel 9: https://www.biblegateway.com/passage/?search=Ezekiel%209&version=ESV
+  Ezekiel 10: https://www.biblegateway.com/passage/?search=Ezekiel%2010&version=ESV
+  Ezekiel 11: https://www.biblegateway.com/passage/?search=Ezekiel%2011&version=ESV
+  Ezekiel 12: https://www.biblegateway.com/passage/?search=Ezekiel%2012&version=ESV
+  Ezekiel 13: https://www.biblegateway.com/passage/?search=Ezekiel%2013&version=ESV
+  Ezekiel 14: https://www.biblegateway.com/passage/?search=Ezekiel%2014&version=ESV
+  Ezekiel 15: https://www.biblegateway.com/passage/?search=Ezekiel%2015&version=ESV
+  Ezekiel 16: https://www.biblegateway.com/passage/?search=Ezekiel%2016&version=ESV
+  Ezekiel 17: https://www.biblegateway.com/passage/?search=Ezekiel%2017&version=ESV
+  Ezekiel 18: https://www.biblegateway.com/passage/?search=Ezekiel%2018&version=ESV
+  Ezekiel 19: https://www.biblegateway.com/passage/?search=Ezekiel%2019&version=ESV
+  Ezekiel 20: https://www.biblegateway.com/passage/?search=Ezekiel%2020&version=ESV
+  Ezekiel 21: https://www.biblegateway.com/passage/?search=Ezekiel%2021&version=ESV
+  Ezekiel 22: https://www.biblegateway.com/passage/?search=Ezekiel%2022&version=ESV
+  Ezekiel 23: https://www.biblegateway.com/passage/?search=Ezekiel%2023&version=ESV
+  Ezekiel 24: https://www.biblegateway.com/passage/?search=Ezekiel%2024&version=ESV
+  Ezekiel 25: https://www.biblegateway.com/passage/?search=Ezekiel%2025&version=ESV
+  Ezekiel 26: https://www.biblegateway.com/passage/?search=Ezekiel%2026&version=ESV
+  Ezekiel 27: https://www.biblegateway.com/passage/?search=Ezekiel%2027&version=ESV
+  Ezekiel 28: https://www.biblegateway.com/passage/?search=Ezekiel%2028&version=ESV
+  Ezekiel 29: https://www.biblegateway.com/passage/?search=Ezekiel%2029&version=ESV
+  Ezekiel 30: https://www.biblegateway.com/passage/?search=Ezekiel%2030&version=ESV
+  Ezekiel 31: https://www.biblegateway.com/passage/?search=Ezekiel%2031&version=ESV
+  Ezekiel 32: https://www.biblegateway.com/passage/?search=Ezekiel%2032&version=ESV
+  Ezekiel 33: https://www.biblegateway.com/passage/?search=Ezekiel%2033&version=ESV
+  Ezekiel 34: https://www.biblegateway.com/passage/?search=Ezekiel%2034&version=ESV
+  Ezekiel 35: https://www.biblegateway.com/passage/?search=Ezekiel%2035&version=ESV
+  Ezekiel 36: https://www.biblegateway.com/passage/?search=Ezekiel%2036&version=ESV
+  Ezekiel 37: https://www.biblegateway.com/passage/?search=Ezekiel%2037&version=ESV
+  Ezekiel 38: https://www.biblegateway.com/passage/?search=Ezekiel%2038&version=ESV
+  Ezekiel 39: https://www.biblegateway.com/passage/?search=Ezekiel%2039&version=ESV
+  Ezekiel 40: https://www.biblegateway.com/passage/?search=Ezekiel%2040&version=ESV
+  Ezekiel 41: https://www.biblegateway.com/passage/?search=Ezekiel%2041&version=ESV
+  Ezekiel 42: https://www.biblegateway.com/passage/?search=Ezekiel%2042&version=ESV
+  Ezekiel 43: https://www.biblegateway.com/passage/?search=Ezekiel%2043&version=ESV
+  Ezekiel 44: https://www.biblegateway.com/passage/?search=Ezekiel%2044&version=ESV
+  Ezekiel 45: https://www.biblegateway.com/passage/?search=Ezekiel%2045&version=ESV
+  Ezekiel 46: https://www.biblegateway.com/passage/?search=Ezekiel%2046&version=ESV
+  Ezekiel 47: https://www.biblegateway.com/passage/?search=Ezekiel%2047&version=ESV
+  Ezekiel 48: https://www.biblegateway.com/passage/?search=Ezekiel%2048&version=ESV
+书名: Daniel, 章节数: 12
+  Daniel 1: https://www.biblegateway.com/passage/?search=Daniel%201&version=ESV
+  Daniel 2: https://www.biblegateway.com/passage/?search=Daniel%202&version=ESV
+  Daniel 3: https://www.biblegateway.com/passage/?search=Daniel%203&version=ESV
+  Daniel 4: https://www.biblegateway.com/passage/?search=Daniel%204&version=ESV
+  Daniel 5: https://www.biblegateway.com/passage/?search=Daniel%205&version=ESV
+  Daniel 6: https://www.biblegateway.com/passage/?search=Daniel%206&version=ESV
+  Daniel 7: https://www.biblegateway.com/passage/?search=Daniel%207&version=ESV
+  Daniel 8: https://www.biblegateway.com/passage/?search=Daniel%208&version=ESV
+  Daniel 9: https://www.biblegateway.com/passage/?search=Daniel%209&version=ESV
+  Daniel 10: https://www.biblegateway.com/passage/?search=Daniel%2010&version=ESV
+  Daniel 11: https://www.biblegateway.com/passage/?search=Daniel%2011&version=ESV
+  Daniel 12: https://www.biblegateway.com/passage/?search=Daniel%2012&version=ESV
+书名: Hosea, 章节数: 14
+  Hosea 1: https://www.biblegateway.com/passage/?search=Hosea%201&version=ESV
+  Hosea 2: https://www.biblegateway.com/passage/?search=Hosea%202&version=ESV
+  Hosea 3: https://www.biblegateway.com/passage/?search=Hosea%203&version=ESV
+  Hosea 4: https://www.biblegateway.com/passage/?search=Hosea%204&version=ESV
+  Hosea 5: https://www.biblegateway.com/passage/?search=Hosea%205&version=ESV
+  Hosea 6: https://www.biblegateway.com/passage/?search=Hosea%206&version=ESV
+  Hosea 7: https://www.biblegateway.com/passage/?search=Hosea%207&version=ESV
+  Hosea 8: https://www.biblegateway.com/passage/?search=Hosea%208&version=ESV
+  Hosea 9: https://www.biblegateway.com/passage/?search=Hosea%209&version=ESV
+  Hosea 10: https://www.biblegateway.com/passage/?search=Hosea%2010&version=ESV
+  Hosea 11: https://www.biblegateway.com/passage/?search=Hosea%2011&version=ESV
+  Hosea 12: https://www.biblegateway.com/passage/?search=Hosea%2012&version=ESV
+  Hosea 13: https://www.biblegateway.com/passage/?search=Hosea%2013&version=ESV
+  Hosea 14: https://www.biblegateway.com/passage/?search=Hosea%2014&version=ESV
+书名: Joel, 章节数: 3
+  Joel 1: https://www.biblegateway.com/passage/?search=Joel%201&version=ESV
+  Joel 2: https://www.biblegateway.com/passage/?search=Joel%202&version=ESV
+  Joel 3: https://www.biblegateway.com/passage/?search=Joel%203&version=ESV
+书名: Amos, 章节数: 9
+  Amos 1: https://www.biblegateway.com/passage/?search=Amos%201&version=ESV
+  Amos 2: https://www.biblegateway.com/passage/?search=Amos%202&version=ESV
+  Amos 3: https://www.biblegateway.com/passage/?search=Amos%203&version=ESV
+  Amos 4: https://www.biblegateway.com/passage/?search=Amos%204&version=ESV
+  Amos 5: https://www.biblegateway.com/passage/?search=Amos%205&version=ESV
+  Amos 6: https://www.biblegateway.com/passage/?search=Amos%206&version=ESV
+  Amos 7: https://www.biblegateway.com/passage/?search=Amos%207&version=ESV
+  Amos 8: https://www.biblegateway.com/passage/?search=Amos%208&version=ESV
+  Amos 9: https://www.biblegateway.com/passage/?search=Amos%209&version=ESV
+书名: Obadiah, 章节数: 1
+  Obadiah 1: https://www.biblegateway.com/passage/?search=Obadiah%201&version=ESV
+书名: Jonah, 章节数: 4
+  Jonah 1: https://www.biblegateway.com/passage/?search=Jonah%201&version=ESV
+  Jonah 2: https://www.biblegateway.com/passage/?search=Jonah%202&version=ESV
+  Jonah 3: https://www.biblegateway.com/passage/?search=Jonah%203&version=ESV
+  Jonah 4: https://www.biblegateway.com/passage/?search=Jonah%204&version=ESV
+书名: Micah, 章节数: 7
+  Micah 1: https://www.biblegateway.com/passage/?search=Micah%201&version=ESV
+  Micah 2: https://www.biblegateway.com/passage/?search=Micah%202&version=ESV
+  Micah 3: https://www.biblegateway.com/passage/?search=Micah%203&version=ESV
+  Micah 4: https://www.biblegateway.com/passage/?search=Micah%204&version=ESV
+  Micah 5: https://www.biblegateway.com/passage/?search=Micah%205&version=ESV
+  Micah 6: https://www.biblegateway.com/passage/?search=Micah%206&version=ESV
+  Micah 7: https://www.biblegateway.com/passage/?search=Micah%207&version=ESV
+书名: Nahum, 章节数: 3
+  Nahum 1: https://www.biblegateway.com/passage/?search=Nahum%201&version=ESV
+  Nahum 2: https://www.biblegateway.com/passage/?search=Nahum%202&version=ESV
+  Nahum 3: https://www.biblegateway.com/passage/?search=Nahum%203&version=ESV
+书名: Habakkuk, 章节数: 3
+  Habakkuk 1: https://www.biblegateway.com/passage/?search=Habakkuk%201&version=ESV
+  Habakkuk 2: https://www.biblegateway.com/passage/?search=Habakkuk%202&version=ESV
+  Habakkuk 3: https://www.biblegateway.com/passage/?search=Habakkuk%203&version=ESV
+书名: Zephaniah, 章节数: 3
+  Zephaniah 1: https://www.biblegateway.com/passage/?search=Zephaniah%201&version=ESV
+  Zephaniah 2: https://www.biblegateway.com/passage/?search=Zephaniah%202&version=ESV
+  Zephaniah 3: https://www.biblegateway.com/passage/?search=Zephaniah%203&version=ESV
+书名: Haggai, 章节数: 2
+  Haggai 1: https://www.biblegateway.com/passage/?search=Haggai%201&version=ESV
+  Haggai 2: https://www.biblegateway.com/passage/?search=Haggai%202&version=ESV
+书名: Zechariah, 章节数: 14
+  Zechariah 1: https://www.biblegateway.com/passage/?search=Zechariah%201&version=ESV
+  Zechariah 2: https://www.biblegateway.com/passage/?search=Zechariah%202&version=ESV
+  Zechariah 3: https://www.biblegateway.com/passage/?search=Zechariah%203&version=ESV
+  Zechariah 4: https://www.biblegateway.com/passage/?search=Zechariah%204&version=ESV
+  Zechariah 5: https://www.biblegateway.com/passage/?search=Zechariah%205&version=ESV
+  Zechariah 6: https://www.biblegateway.com/passage/?search=Zechariah%206&version=ESV
+  Zechariah 7: https://www.biblegateway.com/passage/?search=Zechariah%207&version=ESV
+  Zechariah 8: https://www.biblegateway.com/passage/?search=Zechariah%208&version=ESV
+  Zechariah 9: https://www.biblegateway.com/passage/?search=Zechariah%209&version=ESV
+  Zechariah 10: https://www.biblegateway.com/passage/?search=Zechariah%2010&version=ESV
+  Zechariah 11: https://www.biblegateway.com/passage/?search=Zechariah%2011&version=ESV
+  Zechariah 12: https://www.biblegateway.com/passage/?search=Zechariah%2012&version=ESV
+  Zechariah 13: https://www.biblegateway.com/passage/?search=Zechariah%2013&version=ESV
+  Zechariah 14: https://www.biblegateway.com/passage/?search=Zechariah%2014&version=ESV
+书名: Malachi, 章节数: 4
+  Malachi 1: https://www.biblegateway.com/passage/?search=Malachi%201&version=ESV
+  Malachi 2: https://www.biblegateway.com/passage/?search=Malachi%202&version=ESV
+  Malachi 3: https://www.biblegateway.com/passage/?search=Malachi%203&version=ESV
+  Malachi 4: https://www.biblegateway.com/passage/?search=Malachi%204&version=ESV
