@@ -44,11 +44,12 @@ func main() {
 		if originalText == "" || len(originalText) == 0 {
 			break
 		}
+		originalText = strings.ReplaceAll(originalText, "Psalms", "Psalm")
 		content := getcontent(originalText)
 		row.Cells[1].Value = content
 	}
 	//// 保存修改后的Excel文件
-	err = file.Save("./Golang_Basis/openai_chat/bible/output_faith_3.xlsx")
+	err = file.Save("./Golang_Basis/openai_chat/bible/output_christmas.xlsx")
 	if err != nil {
 		log.Fatal(err)
 	}
