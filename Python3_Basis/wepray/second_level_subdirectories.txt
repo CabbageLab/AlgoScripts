@@ -1,0 +1,271 @@
+61-2 Peter
+29-Joel
+28-Hosea
+11-1 Kings
+12-2 Kings
+64-3 John
+27-Daniel
+24-Jeremiah
+13-1 Chronicles
+48-Galatians
+50-Philippians
+51-Colossians
+54-1 Timothy
+55-2 Timothy
+34-Nahum
+33-Micah
+66-Revelation
+39-Malachi
+44-Acts
+9-1 Samuel
+42-Luke
+40-Matthew
+31-Obadiah
+59-James
+20-Proverbs
+37-Haggai
+49-Ephesians
+65-Jude
+47-2 Corinthians
+15-Ezra
+60-1 Peter
+8-Ruth
+1-Genesis
+45-Romans
+62-1 John
+52-1 Thessalonians
+35-Habakkuk
+30-Amos
+43-John
+57-Philemon
+26-Ezekiel
+25-Lamentations
+18-Job
+58-Hebrews
+19-Psalms
+56-Titus
+6-Joshua
+4-Numbers
+7-Judges
+2-Exodus
+53-2 Thessalonians
+14-2 Chronicles
+17-Esther
+3-Leviticus
+32-Jonah
+16-Nehemiah
+10-2 Samuel
+63-2 John
+38-Zechariah
+46-1 Corinthians
+36-Zephaniah
+21-Ecclesiastes
+23-Isaiah
+5-Deuteronomy
+41-Mark
+22-Song of Songs
+61-2 Peter
+29-Joel
+28-Hosea
+11-1 Kings
+12-2 Kings
+64-3 John
+27-Daniel
+24-Jeremiah
+13-1 Chronicles
+48-Galatians
+50-Philippians
+51-Colossians
+54-1 Timothy
+55-2 Timothy
+34-Nahum
+33-Micah
+66-Revelation
+39-Malachi
+44-Acts
+9-1 Samuel
+42-Luke
+40-Matthew
+31-Obadiah
+59-James
+20-Proverbs
+37-Haggai
+49-Ephesians
+65-Jude
+47-2 Corinthians
+15-Ezra
+60-1 Peter
+8-Ruth
+22-Song of Solomon
+1-Genesis
+45-Romans
+62-1 John
+52-1 Thessalonians
+35-Habakkuk
+30-Amos
+43-John
+57-Philemon
+26-Ezekiel
+25-Lamentations
+18-Job
+58-Hebrews
+19-Psalms
+56-Titus
+6-Joshua
+4-Numbers
+7-Judges
+2-Exodus
+53-2 Thessalonians
+14-2 Chronicles
+17-Esther
+3-Leviticus
+32-Jonah
+16-Nehemiah
+10-2 Samuel
+63-2 John
+38-Zechariah
+46-1 Corinthians
+36-Zephaniah
+21-Ecclesiastes
+23-Isaiah
+5-Deuteronomy
+41-Mark
+11-1 Kings
+12-2 Kings
+68-2 Peter
+59-1 Thessalonians
+61-1 Timothy
+25-Ecclesiastes
+13-1 Chronicles
+20-1 Maccabees
+49-Luke
+53-1 Corinthians
+28-Sirach
+50-John
+17-Tobit
+35-Hosea
+21-2 Maccabees
+48-Mark
+38-Obadiah
+69-1 John
+9-1 Samuel
+72-Jude
+56-Ephesians
+39-Jonah
+44-Haggai
+33-Ezekiel
+54-2 Corinthians
+63-Titus
+43-Zephaniah
+52-Romans
+15-Ezra
+70-2 John
+66-James
+8-Ruth
+1-Genesis
+45-Zechariah
+34-Daniel
+55-Galatians
+41-Nahum
+42-Habakkuk
+46-Malachi
+23-Psalms
+29-Isaiah
+58-Colossians
+6-Joshua
+30-Jeremiah
+40-Micah
+4-Numbers
+24-Proverbs
+7-Judges
+62-2 Timothy
+2-Exodus
+60-2 Thessalonians
+36-Joel
+31-Lamentations
+51-Acts
+22-Job
+32-Baruch
+65-Hebrews
+14-2 Chronicles
+47-Matthew
+73-Revelation
+18-Judith
+3-Leviticus
+57-Philippians
+16-Nehemiah
+71-3 John
+10-2 Samuel
+64-Philemon
+67-1 Peter
+27-Wisdom
+26-Song of Solomon
+5-Deuteronomy
+37-Amos
+19-Esther
+61-2 Peter
+29-Joel
+28-Hosea
+11-1 Kings
+12-2 Kings
+64-3 John
+27-Daniel
+24-Jeremiah
+13-1 Chronicles
+48-Galatians
+50-Philippians
+51-Colossians
+54-1 Timothy
+55-2 Timothy
+34-Nahum
+33-Micah
+66-Revelation
+39-Malachi
+44-Acts
+9-1 Samuel
+42-Luke
+40-Matthew
+31-Obadiah
+59-James
+20-Proverbs
+37-Haggai
+49-Ephesians
+65-Jude
+47-2 Corinthians
+15-Ezra
+60-1 Peter
+8-Ruth
+22-Song of Solomon
+1-Genesis
+45-Romans
+62-1 John
+52-1 Thessalonians
+35-Habakkuk
+30-Amos
+43-John
+57-Philemon
+26-Ezekiel
+25-Lamentations
+18-Job
+58-Hebrews
+19-Psalms
+56-Titus
+6-Joshua
+4-Numbers
+7-Judges
+2-Exodus
+53-2 Thessalonians
+14-2 Chronicles
+17-Esther
+3-Leviticus
+32-Jonah
+16-Nehemiah
+10-2 Samuel
+63-2 John
+38-Zechariah
+46-1 Corinthians
+36-Zephaniah
+21-Ecclesiastes
+23-Isaiah
+5-Deuteronomy
+41-Mark
