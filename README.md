@@ -29,11 +29,7 @@
 > 现在业务天天需要刷数据 三种语言Java/python3/golang 来回切着写 怎么写着舒服怎么来 最近也是再看ts+react项目
 > 好想搞开源啊，留给我的时间不多了⛽️
 
-> 可以交流技术/工作经验/未来规划 扫描二维码添加
-<p>
-  <img src="images/img_4.png" width="298" height="321" alt="">
-</p>
-
+### 语言版本
 ```shell
 go version                                                                                                                                                              127 ↵
 go version go1.22.2 darwin/arm64
