@@ -38,7 +38,7 @@ start = time.time()
 response = requests.post(
     "https://api.fish.audio/model",
     files=[
-        ("voices", open("mp3/E63A56C4-349C-4B08-A3F3-D9F043846E3C.m4a", "rb")),
+        ("voices", open("mp3/FF465C50-171A-4A16-ABD4-0374AD770026.mp3", "rb")),
     ],
     data=[
         ("visibility", "private"),
