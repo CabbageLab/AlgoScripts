@@ -1,0 +1,153 @@
+  public enum Type {
+    Invalid(0),
+    Prayer(1),
+    Reading(2),
+    Fasting(3);
+
+
+LentFastingChallenge Type=3
+
+318465776
+319112243
+319329332
+319334263
+319435954
+319486231
+320238265
+320609325
+608663986
+子合计 9
+
+INSERT INTO `Arknights`.`wepray_user_badge` (`userId`, `type`, `awardedDate`, `badgeName`, `createTime`) VALUES
+(318465776, 3, '2025-4-20', 'LentFastingChallenge', 1745164800),
+(319112243, 3, '2025-4-20', 'LentFastingChallenge', 1745164800),
+(319329332, 3, '2025-4-20', 'LentFastingChallenge', 1745164800),
+(319334263, 3, '2025-4-20', 'LentFastingChallenge', 1745164800),
+(319435954, 3, '2025-4-20', 'LentFastingChallenge', 1745164800),
+(319486231, 3, '2025-4-20', 'LentFastingChallenge', 1745164800),
+(320238265, 3, '2025-4-20', 'LentFastingChallenge', 1745164800),
+(320609325, 3, '2025-4-20', 'LentFastingChallenge', 1745164800),
+(608663986, 3, '2025-4-20', 'LentFastingChallenge', 1745164800);
+
+
+
+LentPrayerChallenge Type=1
+
+319112243
+319123281
+319182225
+319193904
+319225025
+319248035
+319279187
+319329332
+319334263
+319435954
+319486231
+319500968
+319558495
+319880981
+320059868
+320111758
+320147606
+320200206
+320238265
+320364136
+320369841
+320407491
+320410556
+320522387
+320526992
+320558966
+320576205
+320601515
+320601772
+320609325
+320614084
+320616650
+320617562
+320628327
+320628580
+608663986
+608674757
+608949671
+608991847
+子合计 39
+
+INSERT INTO `Arknights`.`wepray_user_badge` (`userId`, `type`, `awardedDate`, `badgeName`, `createTime`) VALUES
+(319112243, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(319123281, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(319182225, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(319193904, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(319225025, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(319248035, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(319279187, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(319329332, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(319334263, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(319435954, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(319486231, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(319500968, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(319558495, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(319880981, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(320059868, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(320111758, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(320147606, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(320200206, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(320238265, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(320364136, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(320369841, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(320407491, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(320410556, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(320522387, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(320526992, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(320558966, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(320576205, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(320601515, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(320601772, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(320609325, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(320614084, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(320616650, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(320617562, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(320628327, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(320628580, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(608663986, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(608674757, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(608949671, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+(608991847, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800);
+
+
+LentReadingChallenge Type=2
+
+319193904
+319329332
+319486231
+319616049
+319730876
+320111758
+320147606
+320364136
+320369841
+320407491
+320410556
+320522387
+320628327
+608663986
+608991847
+子合计 15
+
+INSERT INTO `Arknights`.`wepray_user_badge` (`userId`, `type`, `awardedDate`, `badgeName`, `createTime`) VALUES
+(319193904, 2, '2025-4-20', 'LentReadingChallenge', 1745164800),
+(319329332, 2, '2025-4-20', 'LentReadingChallenge', 1745164800),
+(319486231, 2, '2025-4-20', 'LentReadingChallenge', 1745164800),
+(319616049, 2, '2025-4-20', 'LentReadingChallenge', 1745164800),
+(319730876, 2, '2025-4-20', 'LentReadingChallenge', 1745164800),
+(320111758, 2, '2025-4-20', 'LentReadingChallenge', 1745164800),
+(320147606, 2, '2025-4-20', 'LentReadingChallenge', 1745164800),
+(320364136, 2, '2025-4-20', 'LentReadingChallenge', 1745164800),
+(320369841, 2, '2025-4-20', 'LentReadingChallenge', 1745164800),
+(320407491, 2, '2025-4-20', 'LentReadingChallenge', 1745164800),
+(320410556, 2, '2025-4-20', 'LentReadingChallenge', 1745164800),
+(320522387, 2, '2025-4-20', 'LentReadingChallenge', 1745164800),
+(320628327, 2, '2025-4-20', 'LentReadingChallenge', 1745164800),
+(608663986, 2, '2025-4-20', 'LentReadingChallenge', 1745164800),
+(608991847, 2, '2025-4-20', 'LentReadingChallenge', 1745164800);

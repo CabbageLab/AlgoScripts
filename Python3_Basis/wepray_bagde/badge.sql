@@ -1,0 +1,52 @@
+-- 请在此输入SQL，以分号结尾，仅支持DML和DDL语句，查询语句请使用SQL查询功能。
+INSERT INTO `Arknights`.`wepray_user_badge` (`userId`, `type`, `awardedDate`, `badgeName`, `createTime`)
+VALUES (318465776, 3, '2025-4-20', 'LentFastingChallenge', 1745164800),
+       (319112243, 3, '2025-4-20', 'LentFastingChallenge', 1745164800),
+       (319329332, 3, '2025-4-20', 'LentFastingChallenge', 1745164800),
+       (319334263, 3, '2025-4-20', 'LentFastingChallenge', 1745164800),
+       (320238265, 3, '2025-4-20', 'LentFastingChallenge', 1745164800),
+       (320609325, 3, '2025-4-20', 'LentFastingChallenge', 1745164800);
+
+INSERT INTO `Arknights`.`wepray_user_badge` (`userId`, `type`, `awardedDate`, `badgeName`, `createTime`)
+VALUES (319112243, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+       (319123281, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+       (319182225, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+       (319193904, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+       (319225025, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+       (319248035, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+       (319279187, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+       (319329332, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+       (319334263, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+       (319500968, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+       (319880981, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+       (320059868, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+       (320111758, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+       (320147606, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+       (320200206, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+       (320238265, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+       (320364136, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+       (320369841, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+       (320522387, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+       (320526992, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+       (320576205, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+       (320601772, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800);
+
+INSERT INTO `Arknights`.`wepray_user_badge` (`userId`, `type`, `awardedDate`, `badgeName`, `createTime`)
+VALUES (319193904, 2, '2025-4-20', 'LentReadingChallenge', 1745164800),
+       (319329332, 2, '2025-4-20', 'LentReadingChallenge', 1745164800),
+       (319616049, 2, '2025-4-20', 'LentReadingChallenge', 1745164800),
+       (320111758, 2, '2025-4-20', 'LentReadingChallenge', 1745164800),
+       (320147606, 2, '2025-4-20', 'LentReadingChallenge', 1745164800),
+       (320364136, 2, '2025-4-20', 'LentReadingChallenge', 1745164800),
+       (320369841, 2, '2025-4-20', 'LentReadingChallenge', 1745164800),
+       (320522387, 2, '2025-4-20', 'LentReadingChallenge', 1745164800),
+       (320628327, 2, '2025-4-20', 'LentReadingChallenge', 1745164800);
+
+
+
+INSERT INTO `Arknights`.`wepray_user_badge` (`userId`, `type`, `awardedDate`, `badgeName`, `createTime`)
+VALUES (608674757, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800),
+       (608949671, 1, '2025-4-20', 'LentPrayerChallenge', 1745164800);
+
+INSERT INTO `Arknights`.`wepray_user_badge` (`userId`, `type`, `awardedDate`, `badgeName`, `createTime`)
+VALUES (608663986, 2, '2025-4-20', 'LentReadingChallenge', 1745164800);
