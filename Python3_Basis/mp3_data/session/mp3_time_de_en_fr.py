@@ -42,34 +42,23 @@ def get_mp3_time(url):
 
 if __name__ == '__main__':
     # 读取intro_final.txt文件 每一行 进行load json
-    with open('testament_intro_final.txt', 'r') as f:
+    with open('session.txt', 'r') as f:
         lines = f.readlines()
         for line in lines:
-            urls = json.loads(line.strip())
-            intro_url = urls[0]
-            final_url = urls[-1]
+            url=line.strip()
             # print(intro_url)
             # print(final_url)
             lan = ["en", "de", "fr"]
             res = []
             d1 = dict()
             for l in lan:
-                intro_url_format = intro_url % l
-                print(intro_url_format)
-                time_t = get_mp3_time(intro_url_format)
+                url_format = url % l
+                print(url_format)
+                time_t = get_mp3_time(url_format)
                 print(time_t)
                 d1[l] = str(time_t)
-            res.append(d1)
-            d2 = dict()
-            for l in lan:
-                final_url_format = final_url % l
-                print(final_url_format)
-                time_t = get_mp3_time(final_url_format)
-                print(time_t)
-                d2[l] = str(time_t)
+                with open('session_lent_time_map.txt', 'a') as f:
+                    f.write(json.dumps(d1) + "\n")
+                    f.flush()
 
-            res.append(d2)
-            # 写入新的文件txt 边写边追加
-            with open('lent_time22.txt', 'a') as f:
-                f.write(json.dumps(res) + "\n")
-                f.flush()
+

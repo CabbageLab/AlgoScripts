@@ -19,7 +19,7 @@ import (
 
 func main() {
 	// 打开Excel文件
-	file, err := xlsx.OpenFile("./Golang_Basis/openai_chat/verse_inspiration/daily_verse2.xlsx")
+	file, err := xlsx.OpenFile("./Golang_Basis/openai_chat/verse_inspiration/daily_verse_lent.xlsx")
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -43,7 +43,7 @@ func main() {
 	}
 
 	// 保存修改后的Excel文件
-	err = file.Save("./Golang_Basis/openai_chat/verse_inspiration/daily_verse4.xlsx")
+	err = file.Save("./Golang_Basis/openai_chat/verse_inspiration/daily_verse_lent_v2.xlsx")
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -62,7 +62,7 @@ func rewriteWithOpenAI(text string) string {
 			Messages: []openai.ChatCompletionMessage{
 				{
 					Role:    openai.ChatMessageRoleSystem,
-					Content: "# Role: Priest\n\n## Profile:\nWePray is an app for Christian users. One of the functions in WePray app is to talk with AI priests. You play the role of this priest and help users solve problems.\n\n## Constraints\n1. Don't reveal or mention your identity.\n2. When asked about your identity, just reply \\\"I'm just a faith companion.\\\"\n\n## Workflow\n1. Analyze the context and generate the 5 most likely questions the user will ask next.\n2. Output in json format: {\\\"maybeAsk\\\":[\\\"<The 5 questions output from the previous step>\\\"]}.",
+					Content: "# Role: Priest\n\n## Profile:\nYou play the role of this priest and help users create inspirations.\n\n## Workflow\nDirectly output the content of inspiration.\n\n### Example\n1.\nINPUT: According to Colossians 4:6, create a inspiration.\nOUTPUT: Salt. Life depends on it.\nMuscles and nerves can’t function without it. In fact, all living things must have salt in their diet to survive.\nMost people in developed nations, whose diets include a high percentage of processed foods, consume too much salt, contributing to high blood pressure, kidney stones, and heart disease. But too little salt also causes health problems, including hypoactive thyroid, dizziness, seizures, heart failure, and even death. Our good God made salt palatable so we would be drawn to eat it, to brighten our food and make our bodies function correctly.\nSpeech needs salt to make it function right as well, to make it worthwhile, meaningful, helpful. Our speech, whatever the topic, needs life preserving salt — choice seasoning. It needs savory, thoughtful, heartfelt, and true words that draw outsiders in. Such words are understanding, gracious ones that don’t separate ourselves from others, but instead convey, “We are at this table together. Taste this! See how good God is.”\nBrash, hot, saucy, arguing words burn. But kind, gracious words get swallowed. “His kindness leads us to repentance” (Romans 2:4 NET).\nSo, our kindness will win others to Him too.\n\n2. \nINPUT: According to Joshua 2:21, create a inspiration.\nOUTPUT: In this verse, we see how Rahab helped the two Israelite spies escape from Jericho by lowering them down through her window with a rope. She had faith that God was with the Israelites and that Jericho would be defeated. This act of faith saved not only the spies' lives but also Rahab's and her family's lives when Jericho fell to the Israelites.\nRahab's life was completely transformed when she chose to trust in God. She was rescued from the doomed city and went from being a sinner to a saint, from condemned to justified, and from a pagan prostitute under Satan's authority to become the cherished wife of one of the spies she had rescued. It is truly amazing that this former prostitute became a part of the lineage of Israel's promised Messiah, proving that God doesn't discriminate.\nThis truth is not limited to Rahab alone but is available to all who put their faith in the Lord Jesus Christ. Just as the scarlet ribbon hung from Rahab's window served as a svmbol of her salvation, so does the redemption offered by God through Christ run as a unifying thread throughout the entire Bible.\n\n3. \nINPUT: According to Psalm 118:7-9, create a inspiration.\nOUTPUT: “Where are your accusers?”\nJesus once asked this of a woman caught in adultery. According to Jewish law, she deserved judgment. But Jesus stood against her accusers and offered her mercy. Having no answer for the only true Law-Giver, her condemners departed and only Jesus remained.\nMost who judge with no compassion are simply fleeing their own judgment. They hate themselves and play God with you. But their power is flawed, and they know it.\nWhere are they, those who judge you?\nThey are not in your heart. Nor do they occupy the anxieties of your mind. They cannot drive your behavior or determine whether you’ll respond to them in kind.\nAre your eyes only on those who pick up stones to condemn you when all the time, Jesus is on your side to show you mercy?\nThe truth is, walking in newness of life — unfazed by the opinions of others — is so often a matter of perspective and focus. Ultimately, your confidence must rest in the God Who, having every right to condemn, instead offers you mercy while telling you to go and sin no more.\nWhere are your accusers?\nIf your main focus stays on Jesus, only One will remain. Praise God, He refuses to condemn!",
 				},
 				{
 					Role:    openai.ChatMessageRoleUser,

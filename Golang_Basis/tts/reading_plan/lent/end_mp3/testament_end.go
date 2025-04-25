@@ -30,7 +30,7 @@ import (
 
 func main() {
 	//prayer := ""
-	file, err := xlsx.OpenFile("./Golang_Basis/tts/reading_plan/testament/intro_mp3/lent_intro.xlsx")
+	file, err := xlsx.OpenFile("./Golang_Basis/tts/reading_plan/testament/end_mp3/testament_end.xlsx")
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -43,7 +43,6 @@ func main() {
 		if rowIndex <= 0 { // 跳过标题行
 			continue
 		}
-
 		introduction_key := row.Cells[0].String()
 		introduction_content := row.Cells[1].String()
 		introduction_key = strings.TrimSpace(introduction_key)
@@ -129,7 +128,7 @@ func handleTTS3(introduction_key, introduction_content string) string {
 	fileURL := fmt.Sprintf("%s/%s", DOMAIN_FF, keyName)
 	fmt.Printf("Audio file uploaded successfully. File URL: %s\n", fileURL)
 	// 打开文件，如果文件不存在则创建，文件存在则追加内容
-	file_txt, err := os.OpenFile("./Golang_Basis/tts/reading_plan/testament/intro_mp3/intro_urls.txt", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
+	file_txt, err := os.OpenFile("./Golang_Basis/tts/reading_plan/testament/end_mp3/end_urls.txt", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
 	// 创建一个新的写入器
 	writer := bufio.NewWriter(file_txt)
 	writer.WriteString(fileURL + "\n")

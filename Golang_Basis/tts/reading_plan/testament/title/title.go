@@ -42,13 +42,14 @@ func main() {
 		fmt.Println(originalText)
 		// 调用OpenAI API进行重写
 		rewrittenText := rewriteWithOpenAI(originalText)
+		fmt.Println(rewrittenText)
 		//fmt.Println(rewrittenText)
 		//// 将重写后的数据写回到Excel的同一列
 		row.Cells[1].Value = rewrittenText
 	}
 
 	//// 保存修改后的Excel文件
-	err = file.Save("./Golang_Basis/tts/reading_plan/testament/title/output.xlsx")
+	err = file.Save("./Golang_Basis/tts/reading_plan/testament/title/output2.xlsx")
 	if err != nil {
 		log.Fatal(err)
 	}

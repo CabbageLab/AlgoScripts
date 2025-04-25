@@ -43,13 +43,16 @@ func main() {
 			continue
 		}
 		name := row.Cells[0].String()
-		//prayer_de := row.Cells[3].String()
-		prayer_fr := row.Cells[4].String()
+		prayer_en := row.Cells[1].String()
+		prayer_de := row.Cells[2].String()
+		prayer_fr := row.Cells[3].String()
 		if name == "" || len(name) == 0 {
 			break
 		}
 		fmt.Println(name)
-		fmt.Println(prayer_fr)
+		fmt.Println(prayer_en)
+		handleTTS3(name, prayer_en, "en")
+		handleTTS3(name, prayer_de, "de")
 		handleTTS3(name, prayer_fr, "fr")
 	}
 
@@ -86,15 +89,20 @@ var fr_ssml = `
 
 func handleTTS3(introduction_key, introduction_content, language string) string {
 	ss := ""
+	ssml := ""
 	if language == "de" {
 		ss = de_ssml
+		ssml = fmt.Sprintf(ss, introduction_content)
+
 	} else if language == "fr" {
 		ss = fr_ssml
+		voiceRate := "-15%"
+		ssml = fmt.Sprintf(ss, voiceRate, introduction_content)
 	} else {
 		ss = en_ssml
+		ssml = fmt.Sprintf(ss, introduction_content)
 	}
-	voiceRate := "-15%"
-	ssml := fmt.Sprintf(ss, voiceRate, introduction_content)
+
 	fmt.Println(ssml)
 	tts_key := os.Getenv("TTS_KEY")
 	fmt.Println(tts_key)
@@ -128,7 +136,7 @@ func handleTTS3(introduction_key, introduction_content, language string) string 
 
 	// Define AWS S3 credentials
 	bucketName := os.Getenv("BUCKET_NAME")
-	keyName := fmt.Sprintf("wepray_business/daily_verse/%s/%s.mp3", language, introduction_key)
+	keyName := fmt.Sprintf("wepray_business/verse_lent/%s/%s.mp3", language, introduction_key)
 	accessKeyID := os.Getenv("ACCESS_KEY_ID")
 	secretAccessKey := os.Getenv("SECRET_KEY")
 	regionName := "us-west-1"

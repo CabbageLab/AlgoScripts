@@ -30,7 +30,7 @@ import (
 
 func main() {
 	//prayer := ""
-	file, err := xlsx.OpenFile("./Golang_Basis/tts/reading_plan/testament/intro_mp3/lent_intro.xlsx")
+	file, err := xlsx.OpenFile("./Golang_Basis/tts/reading_plan/lent/intro_mp3/lent_intro.xlsx")
 	if err != nil {
 		log.Fatal(err)
 	}

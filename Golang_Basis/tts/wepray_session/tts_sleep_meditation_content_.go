@@ -30,7 +30,7 @@ import (
 
 func main() {
 	//prayer := ""
-	file, err := xlsx.OpenFile("./Golang_Basis/tts/wepray_session/sleep_meditation_content_.xlsx")
+	file, err := xlsx.OpenFile("./Golang_Basis/tts/wepray_session/lent_session.xlsx")
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -44,17 +44,20 @@ func main() {
 			continue
 		}
 		name := row.Cells[0].String()
-		//将content_ 替换为空
-		name = strings.Replace(name, "content_", "", 1)
-		prayer_de := row.Cells[2].String()
-		//prayer_fr := row.Cells[3].String()
-		//en_text := row.Cells[1].String()
 		if name == "" || len(name) == 0 {
 			break
 		}
+		//将content_ 替换为空
+		name = strings.Replace(name, "content_", "", 1)
+		prayer_en := row.Cells[1].String()
+		prayer_de := row.Cells[2].String()
+		prayer_fr := row.Cells[3].String()
+		//en_text := row.Cells[1].String()
 		fmt.Println(name)
 		fmt.Println(prayer_de)
-		handleTTS3(name, prayer_de, "de", "sleep_meditation")
+		handleTTS3(name, prayer_en, "en", "lent")
+		handleTTS3(name, prayer_de, "de", "lent")
+		handleTTS3(name, prayer_fr, "fr", "lent")
 	}
 
 }
@@ -167,7 +170,7 @@ func handleTTS3(introduction_key, introduction_content, language, prayer_name st
 	fileURL := fmt.Sprintf("%s/%s", domain_ff, keyName)
 	fmt.Printf("Audio file uploaded successfully. File URL: %s\n", fileURL)
 	// 打开文件，如果文件不存在则创建，文件存在则追加内容
-	file_txt, err := os.OpenFile("./Golang_Basis/tts/wepray_session/prayer_fr_urls.txt", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
+	file_txt, err := os.OpenFile("./Golang_Basis/tts/wepray_session/lent_de_fr_urls.txt", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
 	// 创建一个新的写入器
 	writer := bufio.NewWriter(file_txt)
 	writer.WriteString(fileURL + "\n")

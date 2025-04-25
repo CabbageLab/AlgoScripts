@@ -79,7 +79,7 @@ func handleFinalContent() {
 			break
 		}
 		fmt.Println(originalText)
-		aiText := rewriteWithOpenAI(originalText, rowIndex)
+		aiText := rewriteWithOpenAI(originalText, rowIndex+60)
 		replaceAll := strings.TrimSpace(aiText)
 		replaceAll = strings.ReplaceAll(replaceAll, "###", "")
 		replaceAll = strings.ReplaceAll(replaceAll, "#", "")

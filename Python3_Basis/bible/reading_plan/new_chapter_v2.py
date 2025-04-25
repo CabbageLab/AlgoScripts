@@ -35,27 +35,31 @@ if __name__ == '__main__':
         bible_book_unique_id = json.load(f)
 
     # 读取chapter.txt文件 每一行都是[]
-    with open('chapters_len.txt', 'r') as file:
+    with open('testament_verse.txt', 'r') as file:
         for line in file:
-            chapters = json.loads(line)
-            # ["Psalm 46", "Matthew 6:25-34", "Philippians 4:4-9"]
+            # line 读取内容 去掉换行/n
+            line = line.strip()
+            result_v2 = [line]
             result = []
-            for c in chapters:
-                # 使用空格分割字符串
-                parts = c.split(" ")
-                ss = ""
-                # 如果长度大于等于3 1+2的字符串作为book_name 比如 1 Thessalonians 5:16-18
-                if len(parts) >= 3:
-                    book_name = " ".join(parts[:2])
-                    ss = " ".join(parts[2:])
-                else:
-                    book_name = parts[0]
-                    ss = " ".join(parts[1:])
-                # 在bible_book_unique_id 找到对应的id
-                book_id = bible_book_unique_id.get(book_name)
-                # boo_id 加剩下的字符串 拼接起来 放到result里面
-                result.append(str(book_id) + " " + ss)
+            # 使用空格分割字符串
+            parts = line.split(" ")
+            ss = ""
+            # 如果长度大于等于3 1+2的字符串作为book_name 比如 1 Thessalonians 5:16-18
+            if len(parts) >= 3:
+                book_name = " ".join(parts[:2])
+                ss = " ".join(parts[2:])
+            else:
+                book_name = parts[0]
+                ss = " ".join(parts[1:])
+            # 在bible_book_unique_id 找到对应的id
+            book_id = bible_book_unique_id.get(book_name)
+            # boo_id 加剩下的字符串 拼接起来 放到result里面
+            result.append(str(book_id) + " " + ss)
+
+            # result 写入追加到新的txt文件 直接一行json
+            with open('chapter_unique_id_v2.txt', 'a') as f:
+                f.write(json.dumps(result) + '\n')
 
                 # result 写入追加到新的txt文件 直接一行json
-            with open('chapter_new_len.txt', 'a') as f:
-                f.write(json.dumps(result) + '\n')
+            with open('chapter_json_v2.txt', 'a') as f:
+                f.write(json.dumps(result_v2) + '\n')

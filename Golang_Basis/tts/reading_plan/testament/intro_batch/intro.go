@@ -41,7 +41,7 @@ func main() {
 		}
 		fmt.Println(originalText)
 		// 调用OpenAI API进行重写
-		rewrittenText := rewriteWithOpenAI(originalText, rowIndex)
+		rewrittenText := rewriteWithOpenAI(originalText, rowIndex+60)
 		//fmt.Println(rewrittenText)
 		//// 将重写后的数据写回到Excel的同一列
 		row.Cells[1].Value = rewrittenText
