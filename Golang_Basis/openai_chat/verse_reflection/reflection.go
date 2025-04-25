@@ -19,7 +19,7 @@ import (
 
 func main() {
 	// 打开Excel文件
-	file, err := xlsx.OpenFile("./Golang_Basis/openai_chat/verse_reflection/daily_verse2.xlsx")
+	file, err := xlsx.OpenFile("./Golang_Basis/openai_chat/verse_reflection/daily_verse_lent.xlsx")
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -43,7 +43,7 @@ func main() {
 	}
 
 	// 保存修改后的Excel文件
-	err = file.Save("./Golang_Basis/openai_chat/verse_reflection/daily_verse4.xlsx")
+	err = file.Save("./Golang_Basis/openai_chat/verse_reflection/daily_verse_lent.xlsx")
 	if err != nil {
 		log.Fatal(err)
 	}
